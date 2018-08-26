@@ -1,0 +1,64 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "pertanyaan_lanjutan": "Dengan menyebut nama Allah yang maha pengasih dan maha penyayang",
+      "jawaban": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "pertanyaan": "Apa bunyi ayat yang mempunyai arti berikut?"
+    },
+    {
+      "id": 2,
+      "pertanyaan_lanjutan": "مِنَ الْجِنَّةِ وَالنَّاسَ",
+      "jawaban": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاس",
+      "pertanyaan": "Apa lapadz sebelum lapadz berikut ?"
+    },
+    {
+      "id": 3,
+      "pertanyaan_lanjutan": "Katakanlah: Dialah Allah, Yang Maha Esa.",
+      "jawaban": "قُلْ هُوَ اللَّهُ أَحَد",
+      "pertanyaan": "Apa bunyi ayat yang mempunyai arti berikut?"
+    },
+    {
+      "id": 4,
+      "pertanyaan_lanjutan": "Apabila telah datang pertolongan Allah dan kemenangan,",
+      "jawaban": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "pertanyaan": "Apa bunyi ayat dari pengertian tersebut ?"
+    },
+    {
+      "id": 5,
+      "pertanyaan_lanjutan": "أَرَأَيْتَ .... يُكَذِّبُ بِالدِّينِ",
+      "jawaban": "الَّذِيَ",
+      "pertanyaan": "lanjutkan potongan ayat yang hilang ?"
+    },
+    {
+      "id": 6,
+      "pertanyaan_lanjutan": "وَلَمْ يَكُنْ لَهُْ",
+      "jawaban": "كُفُوًا أَحَدِ",
+      "pertanyaan": "Berikut adalah potongan ayat dari surah al ikhlas, lengkapilah"
+    },
+    {
+      "id": 7,
+      "pertanyaan_lanjutan": "وَلَا أَنَا عَابِد",
+      "jawaban": "مَا عَبَدْتُم",
+      "pertanyaan": "Apa kelanjutan dari potongan ayat tersebut ?"
+    },
+    {
+      "id": 8,
+      "pertanyaan_lanjutan": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "jawaban": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرْ ",
+      "pertanyaan": "Apa lapadz sebelum lapadz berikut ?"
+    },
+    {
+      "id": 9,
+      "pertanyaan_lanjutan": "Lanjutkan potongan ayat tersebut",
+      "jawaban": "سَاهُونَْ",
+      "pertanyaan": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ........."
+    },
+    {
+      "id": 10,
+      "pertanyaan_lanjutan": "........... الَّذِي يُكَذِّبُ بِالدِّين",
+      "jawaban": "أَرَأَيْتُ",
+      "pertanyaan": "lengkapi ayat berikut ?"
+    }
+  ]
+}

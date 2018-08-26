@@ -1,0 +1,3388 @@
+{
+  "materi": [
+    {
+      "id": 1,
+      "id_surah": 78,
+      "id_ayat": 1,
+      "arti_text": "Tentang apakah mereka saling bertanya-tanya?"
+    },
+    {
+      "id": 2,
+      "id_surah": 78,
+      "id_ayat": 2,
+      "arti_text": "Tentang berita yang besar,"
+    },
+    {
+      "id": 3,
+      "id_surah": 78,
+      "id_ayat": 3,
+      "arti_text": "yang mereka perselisihkan tentang ini."
+    },
+    {
+      "id": 4,
+      "id_surah": 78,
+      "id_ayat": 4,
+      "arti_text": "Sekali-kali tidak; kelak mereka akan mengetahui,"
+    },
+    {
+      "id": 5,
+      "id_surah": 78,
+      "id_ayat": 5,
+      "arti_text": "kemudian sekali-kali tidak; kelak mereka mengetahui."
+    },
+    {
+      "id": 6,
+      "id_surah": 78,
+      "id_ayat": 6,
+      "arti_text": "Bukankah Kami telah menjadikan bumi itu sebagai hamparan?,"
+    },
+    {
+      "id": 7,
+      "id_surah": 78,
+      "id_ayat": 7,
+      "arti_text": "dan gunung-gunung sebagai pasak?,"
+    },
+    {
+      "id": 8,
+      "id_surah": 78,
+      "id_ayat": 8,
+      "arti_text": "dan Kami jadikan kamu berpasang-pasangan,"
+    },
+    {
+      "id": 9,
+      "id_surah": 78,
+      "id_ayat": 9,
+      "arti_text": "dan Kami jadikan tidurmu untuk istirahat,"
+    },
+    {
+      "id": 10,
+      "id_surah": 78,
+      "id_ayat": 10,
+      "arti_text": "dan Kami jadikan malam sebagai pakaian,"
+    },
+    {
+      "id": 11,
+      "id_surah": 78,
+      "id_ayat": 11,
+      "arti_text": "dan Kami jadikan siang untuk mencari penghidupan,"
+    },
+    {
+      "id": 12,
+      "id_surah": 78,
+      "id_ayat": 12,
+      "arti_text": "dan Kami bina di atas kamu tujuh buah (langit) yang kokoh,"
+    },
+    {
+      "id": 13,
+      "id_surah": 78,
+      "id_ayat": 13,
+      "arti_text": "dan Kami jadikan pelita yang amat terang (matahari),"
+    },
+    {
+      "id": 14,
+      "id_surah": 78,
+      "id_ayat": 14,
+      "arti_text": "dan Kami turunkan dari awan air yang banyak tercurah,"
+    },
+    {
+      "id": 15,
+      "id_surah": 78,
+      "id_ayat": 15,
+      "arti_text": "supaya Kami tumbuhkan dengan air itu biji-bijian dan tumbuh-tumbuhan,"
+    },
+    {
+      "id": 16,
+      "id_surah": 78,
+      "id_ayat": 16,
+      "arti_text": "dan kebun-kebun yang lebat?"
+    },
+    {
+      "id": 17,
+      "id_surah": 78,
+      "id_ayat": 17,
+      "arti_text": "Sesungguhnya Hari Keputusan adalah suatu waktu yang ditetapkan,"
+    },
+    {
+      "id": 18,
+      "id_surah": 78,
+      "id_ayat": 18,
+      "arti_text": "yaitu hari (yang pada waktu itu) ditiup sangkakala lalu kamu datang berkelompok-kelompok,"
+    },
+    {
+      "id": 19,
+      "id_surah": 78,
+      "id_ayat": 19,
+      "arti_text": "dan dibukalah langit, maka terdapatlah beberapa pintu,"
+    },
+    {
+      "id": 20,
+      "id_surah": 78,
+      "id_ayat": 20,
+      "arti_text": "dan dijalankanlah gunung-gunung maka menjadi fatamorganalah ia."
+    },
+    {
+      "id": 21,
+      "id_surah": 78,
+      "id_ayat": 21,
+      "arti_text": "Sesungguhnya neraka Jahannam itu (padanya) ada tempat pengintai,"
+    },
+    {
+      "id": 22,
+      "id_surah": 78,
+      "id_ayat": 22,
+      "arti_text": "lagi menjadi tempat kembali bagi orang-orang yang melampaui batas,"
+    },
+    {
+      "id": 23,
+      "id_surah": 78,
+      "id_ayat": 23,
+      "arti_text": "mereka tinggal di dalamnya berabad-abad lamanya,"
+    },
+    {
+      "id": 24,
+      "id_surah": 78,
+      "id_ayat": 24,
+      "arti_text": "mereka tidak merasakan kesejukan di dalamnya dan tidak (pula mendapat) minuman,"
+    },
+    {
+      "id": 25,
+      "id_surah": 78,
+      "id_ayat": 25,
+      "arti_text": "selain air yang mendidih dan nanah,"
+    },
+    {
+      "id": 26,
+      "id_surah": 78,
+      "id_ayat": 26,
+      "arti_text": "sebagai pambalasan yang setimpal."
+    },
+    {
+      "id": 27,
+      "id_surah": 78,
+      "id_ayat": 27,
+      "arti_text": "Sesungguhnya mereka tidak berharap (takut) kepada hisab,"
+    },
+    {
+      "id": 28,
+      "id_surah": 78,
+      "id_ayat": 28,
+      "arti_text": "dan mereka mendustakan ayat-ayat Kami dengan sesungguh-sungguhnya."
+    },
+    {
+      "id": 29,
+      "id_surah": 78,
+      "id_ayat": 29,
+      "arti_text": "Dan segala sesuatu telah Kami catat dalam suatu kitab."
+    },
+    {
+      "id": 30,
+      "id_surah": 78,
+      "id_ayat": 30,
+      "arti_text": "Karena itu rasakanlah. Dan Kami sekali-kali tidak akan menambah kepada kamu selain daripada azab."
+    },
+    {
+      "id": 31,
+      "id_surah": 78,
+      "id_ayat": 31,
+      "arti_text": "Sesungguhnya orang-orang yang bertakwa mendapat kemenangan,"
+    },
+    {
+      "id": 32,
+      "id_surah": 78,
+      "id_ayat": 32,
+      "arti_text": "(yaitu) kebun-kebun dan buah anggur,"
+    },
+    {
+      "id": 33,
+      "id_surah": 78,
+      "id_ayat": 33,
+      "arti_text": "dan gadis-gadis remaja yang sebaya,"
+    },
+    {
+      "id": 34,
+      "id_surah": 78,
+      "id_ayat": 34,
+      "arti_text": "dan gelas-gelas yang penuh (berisi minuman)."
+    },
+    {
+      "id": 35,
+      "id_surah": 78,
+      "id_ayat": 35,
+      "arti_text": "Di dalamnya mereka tidak mendengar perkataan yang sia-sia dan tidak (pula) perkataan dusta."
+    },
+    {
+      "id": 36,
+      "id_surah": 78,
+      "id_ayat": 36,
+      "arti_text": "Sebagai pembalasan dari Tuhanmu dan pemberian yang cukup banyak,"
+    },
+    {
+      "id": 37,
+      "id_surah": 78,
+      "id_ayat": 37,
+      "arti_text": "Tuhan Yang memelihara langit dan bumi dan apa yang ada di antara keduanya; Yang Maha Pemurah. Mereka tidak dapat berbicara dengan Dia."
+    },
+    {
+      "id": 38,
+      "id_surah": 78,
+      "id_ayat": 38,
+      "arti_text": "Pada hari, ketika ruh dan para malaikat berdiri bershaf-shaf, mereka tidak berkata-kata, kecuali siapa yang telah diberi izin kepadanya oleh Tuhan Yang Maha Pemurah; dan ia mengucapkan kata yang benar."
+    },
+    {
+      "id": 39,
+      "id_surah": 78,
+      "id_ayat": 39,
+      "arti_text": "Itulah hari yang pasti terjadi. Maka barangsiapa yang menghendaki, niscaya ia menempuh jalan kembali kepada Tuhannya."
+    },
+    {
+      "id": 40,
+      "id_surah": 78,
+      "id_ayat": 40,
+      "arti_text": "Sesungguhnya Kami telah memperingatkan kepadamu (hai orang kafir) siksa yang dekat, pada hari manusia melihat apa yang telah diperbuat oleh kedua tangannya; dan orang kafir berkata: &quot;Alangkah baiknya sekiranya aku dahulu adalah tanah&quot;."
+    },
+    {
+      "id": 41,
+      "id_surah": 79,
+      "id_ayat": 1,
+      "arti_text": "Demi (malaikat-malaikat) yang mencabut (nyawa) dengan keras,"
+    },
+    {
+      "id": 42,
+      "id_surah": 79,
+      "id_ayat": 2,
+      "arti_text": "dan (malaikat-malaikat) yang mencabut (nyawa) dengan lemah-lembut,"
+    },
+    {
+      "id": 43,
+      "id_surah": 79,
+      "id_ayat": 3,
+      "arti_text": "dan (malaikat-malaikat) yang turun dari langit dengan cepat,"
+    },
+    {
+      "id": 44,
+      "id_surah": 79,
+      "id_ayat": 4,
+      "arti_text": "dan (malaikat-malaikat) yang mendahului dengan kencang,"
+    },
+    {
+      "id": 45,
+      "id_surah": 79,
+      "id_ayat": 5,
+      "arti_text": "dan (malaikat-malaikat) yang mengatur urusan (dunia)."
+    },
+    {
+      "id": 46,
+      "id_surah": 79,
+      "id_ayat": 6,
+      "arti_text": "(Sesungguhnya kamu akan dibangkitkan) pada hari ketika tiupan pertama menggoncang alam,"
+    },
+    {
+      "id": 47,
+      "id_surah": 79,
+      "id_ayat": 7,
+      "arti_text": "tiupan pertama itu diiringi oleh tiupan kedua."
+    },
+    {
+      "id": 48,
+      "id_surah": 79,
+      "id_ayat": 8,
+      "arti_text": "Hati manusia pada waktu itu sangat takut,"
+    },
+    {
+      "id": 49,
+      "id_surah": 79,
+      "id_ayat": 9,
+      "arti_text": "Pandangannya tunduk."
+    },
+    {
+      "id": 50,
+      "id_surah": 79,
+      "id_ayat": 10,
+      "arti_text": "(Orang-orang kafir) berkata: &quot;Apakah sesungguhnya kami benar-benar dikembalikan kepada kehidupan semula?"
+    },
+    {
+      "id": 51,
+      "id_surah": 79,
+      "id_ayat": 11,
+      "arti_text": "Apakah (akan dibangkitkan juga) apabila kami telah menjadi tulang belulang yang hancur lumat?&quot;"
+    },
+    {
+      "id": 52,
+      "id_surah": 79,
+      "id_ayat": 12,
+      "arti_text": "Mereka berkata: &quot;Kalau demikian, itu adalah suatu pengembalian yang merugikan&quot;."
+    },
+    {
+      "id": 53,
+      "id_surah": 79,
+      "id_ayat": 13,
+      "arti_text": "Sesungguhnya pengembalian itu hanyalah satu kali tiupan saja,"
+    },
+    {
+      "id": 54,
+      "id_surah": 79,
+      "id_ayat": 14,
+      "arti_text": "maka dengan serta merta mereka hidup kembali di permukaan bumi."
+    },
+    {
+      "id": 55,
+      "id_surah": 79,
+      "id_ayat": 15,
+      "arti_text": "Sudah sampaikah kepadamu (ya Muhammad) kisah Musa."
+    },
+    {
+      "id": 56,
+      "id_surah": 79,
+      "id_ayat": 16,
+      "arti_text": "Tatkala Tuhannya memanggilnya di lembah suci ialah Lembah Thuwa;"
+    },
+    {
+      "id": 57,
+      "id_surah": 79,
+      "id_ayat": 17,
+      "arti_text": "&quot;Pergilah kamu kepada Fir´aun, sesungguhnya dia telah melampaui batas,"
+    },
+    {
+      "id": 58,
+      "id_surah": 79,
+      "id_ayat": 18,
+      "arti_text": "dan katakanlah (kepada Fir´aun): &quot;Adakah keinginan bagimu untuk membersihkan diri (dari kesesatan)&quot;."
+    },
+    {
+      "id": 59,
+      "id_surah": 79,
+      "id_ayat": 19,
+      "arti_text": "Dan kamu akan kupimpin ke jalan Tuhanmu agar supaya kamu takut kepada-Nya?&quot;"
+    },
+    {
+      "id": 60,
+      "id_surah": 79,
+      "id_ayat": 20,
+      "arti_text": "Lalu Musa memperlihatkan kepadanya mukjizat yang besar."
+    },
+    {
+      "id": 61,
+      "id_surah": 79,
+      "id_ayat": 21,
+      "arti_text": "Tetapi Fir´aun mendustakan dan mendurhakai."
+    },
+    {
+      "id": 62,
+      "id_surah": 79,
+      "id_ayat": 22,
+      "arti_text": "Kemudian dia berpaling seraya berusaha menantang (Musa)."
+    },
+    {
+      "id": 63,
+      "id_surah": 79,
+      "id_ayat": 23,
+      "arti_text": "Maka dia mengumpulkan (pembesar-pembesarnya) lalu berseru memanggil kaumnya."
+    },
+    {
+      "id": 64,
+      "id_surah": 79,
+      "id_ayat": 24,
+      "arti_text": "(Seraya) berkata: &quot;Akulah tuhanmu yang paling tinggi&quot;."
+    },
+    {
+      "id": 65,
+      "id_surah": 79,
+      "id_ayat": 25,
+      "arti_text": "Maka Allah mengazabnya dengan azab di akhirat dan azab di dunia."
+    },
+    {
+      "id": 66,
+      "id_surah": 79,
+      "id_ayat": 26,
+      "arti_text": "Sesungguhnya pada yang demikian itu terdapat pelajaran bagi orang yang takut (kepada Tuhannya)."
+    },
+    {
+      "id": 67,
+      "id_surah": 79,
+      "id_ayat": 27,
+      "arti_text": "Apakah kamu lebih sulit penciptaanya ataukah langit? Allah telah membinanya,"
+    },
+    {
+      "id": 68,
+      "id_surah": 79,
+      "id_ayat": 28,
+      "arti_text": "Dia meninggikan bangunannya lalu menyempurnakannya,"
+    },
+    {
+      "id": 69,
+      "id_surah": 79,
+      "id_ayat": 29,
+      "arti_text": "dan Dia menjadikan malamnya gelap gulita, dan menjadikan siangnya terang benderang."
+    },
+    {
+      "id": 70,
+      "id_surah": 79,
+      "id_ayat": 30,
+      "arti_text": "Dan bumi sesudah itu dihamparkan-Nya."
+    },
+    {
+      "id": 71,
+      "id_surah": 79,
+      "id_ayat": 31,
+      "arti_text": "Ia memancarkan daripadanya mata airnya, dan (menumbuhkan) tumbuh-tumbuhannya."
+    },
+    {
+      "id": 72,
+      "id_surah": 79,
+      "id_ayat": 32,
+      "arti_text": "Dan gunung-gunung dipancangkan-Nya dengan teguh,"
+    },
+    {
+      "id": 73,
+      "id_surah": 79,
+      "id_ayat": 33,
+      "arti_text": "(semua itu) untuk kesenanganmu dan untuk binatang-binatang ternakmu."
+    },
+    {
+      "id": 74,
+      "id_surah": 79,
+      "id_ayat": 34,
+      "arti_text": "Maka apabila malapetaka yang sangat besar (hari kiamat) telah datang."
+    },
+    {
+      "id": 75,
+      "id_surah": 79,
+      "id_ayat": 35,
+      "arti_text": "Pada hari (ketika) manusia teringat akan apa yang telah dikerjakannya,"
+    },
+    {
+      "id": 76,
+      "id_surah": 79,
+      "id_ayat": 36,
+      "arti_text": "dan diperlihatkan neraka dengan jelas kepada setiap orang yang melihat."
+    },
+    {
+      "id": 77,
+      "id_surah": 79,
+      "id_ayat": 37,
+      "arti_text": "Adapun orang yang melampaui batas,"
+    },
+    {
+      "id": 78,
+      "id_surah": 79,
+      "id_ayat": 38,
+      "arti_text": "dan lebih mengutamakan kehidupan dunia,"
+    },
+    {
+      "id": 79,
+      "id_surah": 79,
+      "id_ayat": 39,
+      "arti_text": "maka sesungguhnya nerakalah tempat tinggal(nya)."
+    },
+    {
+      "id": 80,
+      "id_surah": 79,
+      "id_ayat": 40,
+      "arti_text": "Dan adapun orang-orang yang takut kepada kebesaran Tuhannya dan menahan diri dari keinginan hawa nafsunya,"
+    },
+    {
+      "id": 81,
+      "id_surah": 79,
+      "id_ayat": 41,
+      "arti_text": "maka sesungguhnya surgalah tempat tinggal(nya)."
+    },
+    {
+      "id": 82,
+      "id_surah": 79,
+      "id_ayat": 42,
+      "arti_text": "(Orang-orang kafir) bertanya kepadamu (Muhammad) tentang hari kebangkitan, kapankah terjadinya?"
+    },
+    {
+      "id": 83,
+      "id_surah": 79,
+      "id_ayat": 43,
+      "arti_text": "Siapakah kamu (maka) dapat menyebutkan (waktunya)?"
+    },
+    {
+      "id": 84,
+      "id_surah": 79,
+      "id_ayat": 44,
+      "arti_text": "Kepada Tuhanmulah dikembalikan kesudahannya (ketentuan waktunya)."
+    },
+    {
+      "id": 85,
+      "id_surah": 79,
+      "id_ayat": 45,
+      "arti_text": "Kamu hanyalah pemberi peringatan bagi siapa yang takut kepadanya (hari berbangkit)"
+    },
+    {
+      "id": 86,
+      "id_surah": 79,
+      "id_ayat": 46,
+      "arti_text": "Pada hari mereka melihat hari berbangkit itu, mereka merasa seakan-akan tidak tinggal (di dunia) melainkan (sebentar saja) di waktu sore atau pagi hari."
+    },
+    {
+      "id": 87,
+      "id_surah": 80,
+      "id_ayat": 1,
+      "arti_text": "Dia (Muhammad) bermuka masam dan berpaling,"
+    },
+    {
+      "id": 88,
+      "id_surah": 80,
+      "id_ayat": 2,
+      "arti_text": "karena telah datang seorang buta kepadanya."
+    },
+    {
+      "id": 89,
+      "id_surah": 80,
+      "id_ayat": 3,
+      "arti_text": "Tahukah kamu barangkali ia ingin membersihkan dirinya (dari dosa),"
+    },
+    {
+      "id": 90,
+      "id_surah": 80,
+      "id_ayat": 4,
+      "arti_text": "atau dia (ingin) mendapatkan pengajaran, lalu pengajaran itu memberi manfaat kepadanya?"
+    },
+    {
+      "id": 91,
+      "id_surah": 80,
+      "id_ayat": 5,
+      "arti_text": "Adapun orang yang merasa dirinya serba cukup,"
+    },
+    {
+      "id": 92,
+      "id_surah": 80,
+      "id_ayat": 6,
+      "arti_text": "maka kamu melayaninya."
+    },
+    {
+      "id": 93,
+      "id_surah": 80,
+      "id_ayat": 7,
+      "arti_text": "Padahal tidak ada (celaan) atasmu kalau dia tidak membersihkan diri (beriman)."
+    },
+    {
+      "id": 94,
+      "id_surah": 80,
+      "id_ayat": 8,
+      "arti_text": "Dan adapun orang yang datang kepadamu dengan bersegera (untuk mendapatkan pengajaran),"
+    },
+    {
+      "id": 95,
+      "id_surah": 80,
+      "id_ayat": 9,
+      "arti_text": "sedang ia takut kepada (Allah),"
+    },
+    {
+      "id": 96,
+      "id_surah": 80,
+      "id_ayat": 10,
+      "arti_text": "maka kamu mengabaikannya."
+    },
+    {
+      "id": 97,
+      "id_surah": 80,
+      "id_ayat": 11,
+      "arti_text": "Sekali-kali jangan (demikian)! Sesungguhnya ajaran-ajaran Tuhan itu adalah suatu peringatan,"
+    },
+    {
+      "id": 98,
+      "id_surah": 80,
+      "id_ayat": 12,
+      "arti_text": "maka barangsiapa yang menghendaki, tentulah ia memperhatikannya,"
+    },
+    {
+      "id": 99,
+      "id_surah": 80,
+      "id_ayat": 13,
+      "arti_text": "di dalam kitab-kitab yang dimuliakan,"
+    },
+    {
+      "id": 100,
+      "id_surah": 80,
+      "id_ayat": 14,
+      "arti_text": "yang ditinggikan lagi disucikan,"
+    },
+    {
+      "id": 101,
+      "id_surah": 80,
+      "id_ayat": 15,
+      "arti_text": "di tangan para penulis (malaikat),"
+    },
+    {
+      "id": 102,
+      "id_surah": 80,
+      "id_ayat": 16,
+      "arti_text": "yang mulia lagi berbakti."
+    },
+    {
+      "id": 103,
+      "id_surah": 80,
+      "id_ayat": 17,
+      "arti_text": "Binasalah manusia; alangkah amat sangat kekafirannya?"
+    },
+    {
+      "id": 104,
+      "id_surah": 80,
+      "id_ayat": 18,
+      "arti_text": "Dari apakah Allah menciptakannya?"
+    },
+    {
+      "id": 105,
+      "id_surah": 80,
+      "id_ayat": 19,
+      "arti_text": "Dari setetes mani, Allah menciptakannya lalu menentukannya."
+    },
+    {
+      "id": 106,
+      "id_surah": 80,
+      "id_ayat": 20,
+      "arti_text": "Kemudian Dia memudahkan jalannya."
+    },
+    {
+      "id": 107,
+      "id_surah": 80,
+      "id_ayat": 21,
+      "arti_text": "kemudian Dia mematikannya dan memasukkannya ke dalam kubur,"
+    },
+    {
+      "id": 108,
+      "id_surah": 80,
+      "id_ayat": 22,
+      "arti_text": "kemudian bila Dia menghendaki, Dia membangkitkannya kembali."
+    },
+    {
+      "id": 109,
+      "id_surah": 80,
+      "id_ayat": 23,
+      "arti_text": "Sekali-kali jangan; manusia itu belum melaksanakan apa yang diperintahkan Allah kepadanya,"
+    },
+    {
+      "id": 110,
+      "id_surah": 80,
+      "id_ayat": 24,
+      "arti_text": "maka hendaklah manusia itu memperhatikan makanannya."
+    },
+    {
+      "id": 111,
+      "id_surah": 80,
+      "id_ayat": 25,
+      "arti_text": "Sesungguhnya Kami benar-benar telah mencurahkan air (dari langit),"
+    },
+    {
+      "id": 112,
+      "id_surah": 80,
+      "id_ayat": 26,
+      "arti_text": "kemudian Kami belah bumi dengan sebaik-baiknya,"
+    },
+    {
+      "id": 113,
+      "id_surah": 80,
+      "id_ayat": 27,
+      "arti_text": "lalu Kami tumbuhkan biji-bijian di bumi itu,"
+    },
+    {
+      "id": 114,
+      "id_surah": 80,
+      "id_ayat": 28,
+      "arti_text": "anggur dan sayur-sayuran,"
+    },
+    {
+      "id": 115,
+      "id_surah": 80,
+      "id_ayat": 29,
+      "arti_text": "zaitun dan kurma,"
+    },
+    {
+      "id": 116,
+      "id_surah": 80,
+      "id_ayat": 30,
+      "arti_text": "kebun-kebun (yang) lebat,"
+    },
+    {
+      "id": 117,
+      "id_surah": 80,
+      "id_ayat": 31,
+      "arti_text": "dan buah-buahan serta rumput-rumputan,"
+    },
+    {
+      "id": 118,
+      "id_surah": 80,
+      "id_ayat": 32,
+      "arti_text": "untuk kesenanganmu dan untuk binatang-binatang ternakmu."
+    },
+    {
+      "id": 119,
+      "id_surah": 80,
+      "id_ayat": 33,
+      "arti_text": "Dan apabila datang suara yang memekakkan (tiupan sangkakala yang kedua),"
+    },
+    {
+      "id": 120,
+      "id_surah": 80,
+      "id_ayat": 34,
+      "arti_text": "pada hari ketika manusia lari dari saudaranya,"
+    },
+    {
+      "id": 121,
+      "id_surah": 80,
+      "id_ayat": 35,
+      "arti_text": "dari ibu dan bapaknya,"
+    },
+    {
+      "id": 122,
+      "id_surah": 80,
+      "id_ayat": 36,
+      "arti_text": "dari istri dan anak-anaknya."
+    },
+    {
+      "id": 123,
+      "id_surah": 80,
+      "id_ayat": 37,
+      "arti_text": "Setiap orang dari mereka pada hari itu mempunyai urusan yang cukup menyibukkannya."
+    },
+    {
+      "id": 124,
+      "id_surah": 80,
+      "id_ayat": 38,
+      "arti_text": "Banyak muka pada hari itu berseri-seri,"
+    },
+    {
+      "id": 125,
+      "id_surah": 80,
+      "id_ayat": 39,
+      "arti_text": "tertawa dan bergembira ria,"
+    },
+    {
+      "id": 126,
+      "id_surah": 80,
+      "id_ayat": 40,
+      "arti_text": "dan banyak (pula) muka pada hari itu tertutup debu,"
+    },
+    {
+      "id": 127,
+      "id_surah": 80,
+      "id_ayat": 41,
+      "arti_text": "dan ditutup lagi oleh kegelapan."
+    },
+    {
+      "id": 128,
+      "id_surah": 80,
+      "id_ayat": 42,
+      "arti_text": "Mereka itulah orang-orang kafir lagi durhaka."
+    },
+    {
+      "id": 129,
+      "id_surah": 81,
+      "id_ayat": 1,
+      "arti_text": "Apabila matahari digulung,"
+    },
+    {
+      "id": 130,
+      "id_surah": 81,
+      "id_ayat": 2,
+      "arti_text": "dan apabila bintang-bintang berjatuhan,"
+    },
+    {
+      "id": 131,
+      "id_surah": 81,
+      "id_ayat": 3,
+      "arti_text": "dan apabila gunung-gunung dihancurkan,"
+    },
+    {
+      "id": 132,
+      "id_surah": 81,
+      "id_ayat": 4,
+      "arti_text": "dan apabila unta-unta yang bunting ditinggalkan (tidak diperdulikan)"
+    },
+    {
+      "id": 133,
+      "id_surah": 81,
+      "id_ayat": 5,
+      "arti_text": "dan apabila binatang-binatang liar dikumpulkan,"
+    },
+    {
+      "id": 134,
+      "id_surah": 81,
+      "id_ayat": 6,
+      "arti_text": "dan apabila lautan dijadikan meluap"
+    },
+    {
+      "id": 135,
+      "id_surah": 81,
+      "id_ayat": 7,
+      "arti_text": "dan apabila ruh-ruh dipertemukan (dengan tubuh)"
+    },
+    {
+      "id": 136,
+      "id_surah": 81,
+      "id_ayat": 8,
+      "arti_text": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
+    },
+    {
+      "id": 137,
+      "id_surah": 81,
+      "id_ayat": 9,
+      "arti_text": "karena dosa apakah dia dibunuh,"
+    },
+    {
+      "id": 138,
+      "id_surah": 81,
+      "id_ayat": 10,
+      "arti_text": "dan apabila catatan-catatan (amal perbuatan manusia) dibuka,"
+    },
+    {
+      "id": 139,
+      "id_surah": 81,
+      "id_ayat": 11,
+      "arti_text": "dan apabila langit dilenyapkan,"
+    },
+    {
+      "id": 140,
+      "id_surah": 81,
+      "id_ayat": 12,
+      "arti_text": "dan apabila neraka Jahim dinyalakan,"
+    },
+    {
+      "id": 141,
+      "id_surah": 81,
+      "id_ayat": 13,
+      "arti_text": "dan apabila surga didekatkan,"
+    },
+    {
+      "id": 142,
+      "id_surah": 81,
+      "id_ayat": 14,
+      "arti_text": "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakannya."
+    },
+    {
+      "id": 143,
+      "id_surah": 81,
+      "id_ayat": 15,
+      "arti_text": "Sungguh, Aku bersumpah dengan bintang-bintang,"
+    },
+    {
+      "id": 144,
+      "id_surah": 81,
+      "id_ayat": 16,
+      "arti_text": "yang beredar dan terbenam,"
+    },
+    {
+      "id": 145,
+      "id_surah": 81,
+      "id_ayat": 17,
+      "arti_text": "demi malam apabila telah hampir meninggalkan gelapnya,"
+    },
+    {
+      "id": 146,
+      "id_surah": 81,
+      "id_ayat": 18,
+      "arti_text": "dan demi subuh apabila fajarnya mulai menyingsing,"
+    },
+    {
+      "id": 147,
+      "id_surah": 81,
+      "id_ayat": 19,
+      "arti_text": "sesungguhnya Al Quran itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"
+    },
+    {
+      "id": 148,
+      "id_surah": 81,
+      "id_ayat": 20,
+      "arti_text": "yang mempunyai kekuatan, yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai ´Arsy,"
+    },
+    {
+      "id": 149,
+      "id_surah": 81,
+      "id_ayat": 21,
+      "arti_text": "yang ditaati di sana (di alam malaikat) lagi dipercaya."
+    },
+    {
+      "id": 150,
+      "id_surah": 81,
+      "id_ayat": 22,
+      "arti_text": "Dan temanmu (Muhammad) itu bukanlah sekali-kali orang yang gila."
+    },
+    {
+      "id": 151,
+      "id_surah": 81,
+      "id_ayat": 23,
+      "arti_text": "Dan sesungguhnya Muhammad itu melihat Jibril di ufuk yang terang."
+    },
+    {
+      "id": 152,
+      "id_surah": 81,
+      "id_ayat": 24,
+      "arti_text": "Dan dia (Muhammad) bukanlah orang yang bakhil untuk menerangkan yang ghaib."
+    },
+    {
+      "id": 153,
+      "id_surah": 81,
+      "id_ayat": 25,
+      "arti_text": "Dan Al Quran itu bukanlah perkataan syaitan yang terkutuk,"
+    },
+    {
+      "id": 154,
+      "id_surah": 81,
+      "id_ayat": 26,
+      "arti_text": "maka ke manakah kamu akan pergi?"
+    },
+    {
+      "id": 155,
+      "id_surah": 81,
+      "id_ayat": 27,
+      "arti_text": "Al Quran itu tiada lain hanyalah peringatan bagi semesta alam,"
+    },
+    {
+      "id": 156,
+      "id_surah": 81,
+      "id_ayat": 28,
+      "arti_text": "(yaitu) bagi siapa di antara kamu yang mau menempuh jalan yang lurus."
+    },
+    {
+      "id": 157,
+      "id_surah": 81,
+      "id_ayat": 29,
+      "arti_text": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan semesta alam."
+    },
+    {
+      "id": 158,
+      "id_surah": 82,
+      "id_ayat": 1,
+      "arti_text": "Apabila langit terbelah,"
+    },
+    {
+      "id": 159,
+      "id_surah": 82,
+      "id_ayat": 2,
+      "arti_text": "dan apabila bintang-bintang jatuh berserakan,"
+    },
+    {
+      "id": 160,
+      "id_surah": 82,
+      "id_ayat": 3,
+      "arti_text": "dan apabila lautan menjadikan meluap,"
+    },
+    {
+      "id": 161,
+      "id_surah": 82,
+      "id_ayat": 4,
+      "arti_text": "dan apabila kuburan-kuburan dibongkar,"
+    },
+    {
+      "id": 162,
+      "id_surah": 82,
+      "id_ayat": 5,
+      "arti_text": "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikannya."
+    },
+    {
+      "id": 163,
+      "id_surah": 82,
+      "id_ayat": 6,
+      "arti_text": "Hai manusia, apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Maha Pemurah."
+    },
+    {
+      "id": 164,
+      "id_surah": 82,
+      "id_ayat": 7,
+      "arti_text": "Yang telah menciptakan kamu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,"
+    },
+    {
+      "id": 165,
+      "id_surah": 82,
+      "id_ayat": 8,
+      "arti_text": "dalam bentuk apa saja yang Dia kehendaki, Dia menyusun tubuhmu."
+    },
+    {
+      "id": 166,
+      "id_surah": 82,
+      "id_ayat": 9,
+      "arti_text": "Bukan hanya durhaka saja, bahkan kamu mendustakan hari pembalasan."
+    },
+    {
+      "id": 167,
+      "id_surah": 82,
+      "id_ayat": 10,
+      "arti_text": "Padahal sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),"
+    },
+    {
+      "id": 168,
+      "id_surah": 82,
+      "id_ayat": 11,
+      "arti_text": "yang mulia (di sisi Allah) dan mencatat (pekerjaan-pekerjaanmu itu),"
+    },
+    {
+      "id": 169,
+      "id_surah": 82,
+      "id_ayat": 12,
+      "arti_text": "mereka mengetahui apa yang kamu kerjakan."
+    },
+    {
+      "id": 170,
+      "id_surah": 82,
+      "id_ayat": 13,
+      "arti_text": "Sesungguhnya orang-orang yang banyak berbakti benar-benar berada dalam surga yang penuh kenikmatan,"
+    },
+    {
+      "id": 171,
+      "id_surah": 82,
+      "id_ayat": 14,
+      "arti_text": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka."
+    },
+    {
+      "id": 172,
+      "id_surah": 82,
+      "id_ayat": 15,
+      "arti_text": "Mereka masuk ke dalamnya pada hari pembalasan."
+    },
+    {
+      "id": 173,
+      "id_surah": 82,
+      "id_ayat": 16,
+      "arti_text": "Dan mereka sekali-kali tidak dapat keluar dari neraka itu."
+    },
+    {
+      "id": 174,
+      "id_surah": 82,
+      "id_ayat": 17,
+      "arti_text": "Tahukah kamu apakah hari pembalasan itu?"
+    },
+    {
+      "id": 175,
+      "id_surah": 82,
+      "id_ayat": 18,
+      "arti_text": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?"
+    },
+    {
+      "id": 176,
+      "id_surah": 82,
+      "id_ayat": 19,
+      "arti_text": "(Yaitu) hari (ketika) seseorang tidak berdaya sedikitpun untuk menolong orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah."
+    },
+    {
+      "id": 177,
+      "id_surah": 83,
+      "id_ayat": 1,
+      "arti_text": "Kecelakaan besarlah bagi orang-orang yang curang"
+    },
+    {
+      "id": 178,
+      "id_surah": 83,
+      "id_ayat": 2,
+      "arti_text": "(yaitu) orang-orang yang apabila menerima takaran dari orang lain mereka minta dipenuhi,"
+    },
+    {
+      "id": 179,
+      "id_surah": 83,
+      "id_ayat": 3,
+      "arti_text": "dan apabila mereka menakar atau menimbang untuk orang lain, mereka mengurangi."
+    },
+    {
+      "id": 180,
+      "id_surah": 83,
+      "id_ayat": 4,
+      "arti_text": "Tidaklah orang-orang itu menyangka, bahwa sesungguhnya mereka akan dibangkitkan,"
+    },
+    {
+      "id": 181,
+      "id_surah": 83,
+      "id_ayat": 5,
+      "arti_text": "pada suatu hari yang besar,"
+    },
+    {
+      "id": 182,
+      "id_surah": 83,
+      "id_ayat": 6,
+      "arti_text": "(yaitu) hari (ketika) manusia berdiri menghadap Tuhan semesta alam?"
+    },
+    {
+      "id": 183,
+      "id_surah": 83,
+      "id_ayat": 7,
+      "arti_text": "Sekali-kali jangan curang, karena sesungguhnya kitab orang yang durhaka tersimpan dalam sijjin."
+    },
+    {
+      "id": 184,
+      "id_surah": 83,
+      "id_ayat": 8,
+      "arti_text": "Tahukah kamu apakah sijjin itu?"
+    },
+    {
+      "id": 185,
+      "id_surah": 83,
+      "id_ayat": 9,
+      "arti_text": "(Ialah) kitab yang bertulis."
+    },
+    {
+      "id": 186,
+      "id_surah": 83,
+      "id_ayat": 10,
+      "arti_text": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan,"
+    },
+    {
+      "id": 187,
+      "id_surah": 83,
+      "id_ayat": 11,
+      "arti_text": "(yaitu) orang-orang yang mendustakan hari pembalasan."
+    },
+    {
+      "id": 188,
+      "id_surah": 83,
+      "id_ayat": 12,
+      "arti_text": "Dan tidak ada yang mendustakan hari pembalasan itu melainkan setiap orang yang melampaui batas lagi berdosa,"
+    },
+    {
+      "id": 189,
+      "id_surah": 83,
+      "id_ayat": 13,
+      "arti_text": "yang apabila dibacakan kepadanya ayat-ayat Kami, ia berkata: &quot;Itu adalah dongengan orang-orang yang dahulu&quot;"
+    },
+    {
+      "id": 190,
+      "id_surah": 83,
+      "id_ayat": 14,
+      "arti_text": "Sekali-kali tidak (demikian), sebenarnya apa yang selalu mereka usahakan itu menutupi hati mereka."
+    },
+    {
+      "id": 191,
+      "id_surah": 83,
+      "id_ayat": 15,
+      "arti_text": "Sekali-kali tidak, sesungguhnya mereka pada hari itu benar-benar tertutup dari (rahmat) Tuhan mereka."
+    },
+    {
+      "id": 192,
+      "id_surah": 83,
+      "id_ayat": 16,
+      "arti_text": "Kemudian, sesungguhnya mereka benar-benar masuk neraka."
+    },
+    {
+      "id": 193,
+      "id_surah": 83,
+      "id_ayat": 17,
+      "arti_text": "Kemudian, dikatakan (kepada mereka): &quot;Inilah azab yang dahulu selalu kamu dustakan&quot;."
+    },
+    {
+      "id": 194,
+      "id_surah": 83,
+      "id_ayat": 18,
+      "arti_text": "Sekali-kali tidak, sesungguhnya kitab orang-orang yang berbakti itu (tersimpan) dalam ´Illiyyin."
+    },
+    {
+      "id": 195,
+      "id_surah": 83,
+      "id_ayat": 19,
+      "arti_text": "Tahukah kamu apakah ´Illiyyin itu?"
+    },
+    {
+      "id": 196,
+      "id_surah": 83,
+      "id_ayat": 20,
+      "arti_text": "(Yaitu) kitab yang bertulis,"
+    },
+    {
+      "id": 197,
+      "id_surah": 83,
+      "id_ayat": 21,
+      "arti_text": "yang disaksikan oleh malaikat-malaikat yang didekatkan (kepada Allah)."
+    },
+    {
+      "id": 198,
+      "id_surah": 83,
+      "id_ayat": 22,
+      "arti_text": "Sesungguhnya orang yang berbakti itu benar-benar berada dalam kenikmatan yang besar (surga),"
+    },
+    {
+      "id": 199,
+      "id_surah": 83,
+      "id_ayat": 23,
+      "arti_text": "mereka (duduk) di atas dipan-dipan sambil memandang."
+    },
+    {
+      "id": 200,
+      "id_surah": 83,
+      "id_ayat": 24,
+      "arti_text": "Kamu dapat mengetahui dari wajah mereka kesenangan mereka yang penuh kenikmatan."
+    },
+    {
+      "id": 201,
+      "id_surah": 83,
+      "id_ayat": 25,
+      "arti_text": "Mereka diberi minum dari khamar murni yang dilak (tempatnya),"
+    },
+    {
+      "id": 202,
+      "id_surah": 83,
+      "id_ayat": 26,
+      "arti_text": "laknya adalah kesturi; dan untuk yang demikian itu hendaknya orang berlomba-lomba."
+    },
+    {
+      "id": 203,
+      "id_surah": 83,
+      "id_ayat": 27,
+      "arti_text": "Dan campuran khamar murni itu adalah dari tasnim,"
+    },
+    {
+      "id": 204,
+      "id_surah": 83,
+      "id_ayat": 28,
+      "arti_text": "(yaitu) mata air yang minum daripadanya orang-orang yang didekatkan kepada Allah."
+    },
+    {
+      "id": 205,
+      "id_surah": 83,
+      "id_ayat": 29,
+      "arti_text": "Sesungguhnya orang-orang yang berdosa, adalah mereka yang menertawakan orang-orang yang beriman."
+    },
+    {
+      "id": 206,
+      "id_surah": 83,
+      "id_ayat": 30,
+      "arti_text": "Dan apabila orang-orang yang beriman lalu di hadapan mereka, mereka saling mengedip-ngedipkan matanya."
+    },
+    {
+      "id": 207,
+      "id_surah": 83,
+      "id_ayat": 31,
+      "arti_text": "Dan apabila orang-orang yang berdosa itu kembali kepada kaumnya, mereka kembali dengan gembira."
+    },
+    {
+      "id": 208,
+      "id_surah": 83,
+      "id_ayat": 32,
+      "arti_text": "Dan apabila mereka melihat orang-orang mukmin, mereka mengatakan: &quot;Sesungguhnya mereka itu benar-benar orang-orang yang sesat&quot;,"
+    },
+    {
+      "id": 209,
+      "id_surah": 83,
+      "id_ayat": 33,
+      "arti_text": "padahal orang-orang yang berdosa itu tidak dikirim untuk penjaga bagi orang-orang mukmin."
+    },
+    {
+      "id": 210,
+      "id_surah": 83,
+      "id_ayat": 34,
+      "arti_text": "Maka pada hari ini, orang-orang yang beriman menertawakan orang-orang kafir,"
+    },
+    {
+      "id": 211,
+      "id_surah": 83,
+      "id_ayat": 35,
+      "arti_text": "mereka (duduk) di atas dipan-dipan sambil memandang."
+    },
+    {
+      "id": 212,
+      "id_surah": 83,
+      "id_ayat": 36,
+      "arti_text": "Sesungguhnya orang-orang kafir telah diberi ganjaran terhadap apa yang dahulu mereka kerjakan."
+    },
+    {
+      "id": 213,
+      "id_surah": 84,
+      "id_ayat": 1,
+      "arti_text": "Apabila langit terbelah,"
+    },
+    {
+      "id": 214,
+      "id_surah": 84,
+      "id_ayat": 2,
+      "arti_text": "dan patuh kepada Tuhannya, dan sudah semestinya langit itu patuh,"
+    },
+    {
+      "id": 215,
+      "id_surah": 84,
+      "id_ayat": 3,
+      "arti_text": "dan apabila bumi diratakan,"
+    },
+    {
+      "id": 216,
+      "id_surah": 84,
+      "id_ayat": 4,
+      "arti_text": "dan dilemparkan apa yang ada di dalamnya dan menjadi kosong,"
+    },
+    {
+      "id": 217,
+      "id_surah": 84,
+      "id_ayat": 5,
+      "arti_text": "dan patuh kepada Tuhannya, dan sudah semestinya bumi itu patuh, (pada waktu itu manusia akan mengetahui akibat perbuatannya)."
+    },
+    {
+      "id": 218,
+      "id_surah": 84,
+      "id_ayat": 6,
+      "arti_text": "Hai manusia, sesungguhnya kamu telah bekerja dengan sungguh-sungguh menuju Tuhanmu, maka pasti kamu akan menemui-Nya."
+    },
+    {
+      "id": 219,
+      "id_surah": 84,
+      "id_ayat": 7,
+      "arti_text": "Adapun orang yang diberikan kitabnya dari sebelah kanannya,"
+    },
+    {
+      "id": 220,
+      "id_surah": 84,
+      "id_ayat": 8,
+      "arti_text": "maka dia akan diperiksa dengan pemeriksaan yang mudah,"
+    },
+    {
+      "id": 221,
+      "id_surah": 84,
+      "id_ayat": 9,
+      "arti_text": "dan dia akan kembali kepada kaumnya (yang sama-sama beriman) dengan gembira."
+    },
+    {
+      "id": 222,
+      "id_surah": 84,
+      "id_ayat": 10,
+      "arti_text": "Adapun orang-orang yang diberikan kitabnya dari belakang,"
+    },
+    {
+      "id": 223,
+      "id_surah": 84,
+      "id_ayat": 11,
+      "arti_text": "maka dia akan berteriak: &quot;Celakalah aku&quot;."
+    },
+    {
+      "id": 224,
+      "id_surah": 84,
+      "id_ayat": 12,
+      "arti_text": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka)."
+    },
+    {
+      "id": 225,
+      "id_surah": 84,
+      "id_ayat": 13,
+      "arti_text": "Sesungguhnya dia dahulu (di dunia) bergembira di kalangan kaumnya (yang sama-sama kafir)."
+    },
+    {
+      "id": 226,
+      "id_surah": 84,
+      "id_ayat": 14,
+      "arti_text": "Sesungguhnya dia menyangka bahwa dia sekali-kali tidak akan kembali (kepada Tuhannya)."
+    },
+    {
+      "id": 227,
+      "id_surah": 84,
+      "id_ayat": 15,
+      "arti_text": "(Bukan demikian), yang benar, sesungguhnya Tuhannya selalu melihatnya."
+    },
+    {
+      "id": 228,
+      "id_surah": 84,
+      "id_ayat": 16,
+      "arti_text": "Maka sesungguhnya Aku bersumpah dengan cahaya merah di waktu senja,"
+    },
+    {
+      "id": 229,
+      "id_surah": 84,
+      "id_ayat": 17,
+      "arti_text": "dan dengan malam dan apa yang diselubunginya,"
+    },
+    {
+      "id": 230,
+      "id_surah": 84,
+      "id_ayat": 18,
+      "arti_text": "dan dengan bulan apabila jadi purnama,"
+    },
+    {
+      "id": 231,
+      "id_surah": 84,
+      "id_ayat": 19,
+      "arti_text": "sesungguhnya kamu melalui tingkat demi tingkat (dalam kehidupan),"
+    },
+    {
+      "id": 232,
+      "id_surah": 84,
+      "id_ayat": 20,
+      "arti_text": "Mengapa mereka tidak mau beriman?"
+    },
+    {
+      "id": 233,
+      "id_surah": 84,
+      "id_ayat": 21,
+      "arti_text": "dan apabila Al Quran dibacakan kepada mereka, mereka tidak bersujud,"
+    },
+    {
+      "id": 234,
+      "id_surah": 84,
+      "id_ayat": 22,
+      "arti_text": "bahkan orang-orang kafir itu mendustakan(nya)."
+    },
+    {
+      "id": 235,
+      "id_surah": 84,
+      "id_ayat": 23,
+      "arti_text": "Padahal Allah mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
+    },
+    {
+      "id": 236,
+      "id_surah": 84,
+      "id_ayat": 24,
+      "arti_text": "Maka beri kabar gembiralah mereka dengan azab yang pedih,"
+    },
+    {
+      "id": 237,
+      "id_surah": 84,
+      "id_ayat": 25,
+      "arti_text": "tetapi orang-orang yang beriman dan beramal saleh, bagi mereka pahala yang tidak putus-putusnya."
+    },
+    {
+      "id": 238,
+      "id_surah": 85,
+      "id_ayat": 1,
+      "arti_text": "Demi langit yang mempunyai gugusan bintang,"
+    },
+    {
+      "id": 239,
+      "id_surah": 85,
+      "id_ayat": 2,
+      "arti_text": "dan hari yang dijanjikan,"
+    },
+    {
+      "id": 240,
+      "id_surah": 85,
+      "id_ayat": 3,
+      "arti_text": "dan yang menyaksikan dan yang disaksikan."
+    },
+    {
+      "id": 241,
+      "id_surah": 85,
+      "id_ayat": 4,
+      "arti_text": "Binasa dan terlaknatlah orang-orang yang membuat parit,"
+    },
+    {
+      "id": 242,
+      "id_surah": 85,
+      "id_ayat": 5,
+      "arti_text": "yang berapi (dinyalakan dengan) kayu bakar,"
+    },
+    {
+      "id": 243,
+      "id_surah": 85,
+      "id_ayat": 6,
+      "arti_text": "ketika mereka duduk di sekitarnya,"
+    },
+    {
+      "id": 244,
+      "id_surah": 85,
+      "id_ayat": 7,
+      "arti_text": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang yang beriman."
+    },
+    {
+      "id": 245,
+      "id_surah": 85,
+      "id_ayat": 8,
+      "arti_text": "Dan mereka tidak menyiksa orang-orang mukmin itu melainkan karena orang-orang mukmin itu beriman kepada Allah Yang Maha Perkasa lagi Maha Terpuji,"
+    },
+    {
+      "id": 246,
+      "id_surah": 85,
+      "id_ayat": 9,
+      "arti_text": "Yang mempunyai kerajaan langit dan bumi; dan Allah Maha Menyaksikan segala sesuatu."
+    },
+    {
+      "id": 247,
+      "id_surah": 85,
+      "id_ayat": 10,
+      "arti_text": "Sesungguhnya orang-orang yang mendatangkan cobaan kepada orang-orang yang mukmin laki-laki dan perempuan kemudian mereka tidak bertaubat, maka bagi mereka azab Jahannam dan bagi mereka azab (neraka) yang membakar."
+    },
+    {
+      "id": 248,
+      "id_surah": 85,
+      "id_ayat": 11,
+      "arti_text": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal-amal yang saleh bagi mereka surga yang mengalir di bawahnya sungai-sungai; itulah keberuntungan yang besar."
+    },
+    {
+      "id": 249,
+      "id_surah": 85,
+      "id_ayat": 12,
+      "arti_text": "Sesungguhnya azab Tuhanmu benar-benar keras."
+    },
+    {
+      "id": 250,
+      "id_surah": 85,
+      "id_ayat": 13,
+      "arti_text": "Sesungguhnya Dialah Yang menciptakan (makhluk) dari permulaan dan menghidupkannya (kembali)."
+    },
+    {
+      "id": 251,
+      "id_surah": 85,
+      "id_ayat": 14,
+      "arti_text": "Dialah Yang Maha Pengampun lagi Maha Pengasih,"
+    },
+    {
+      "id": 252,
+      "id_surah": 85,
+      "id_ayat": 15,
+      "arti_text": "yang mempunyai ´Arsy, lagi Maha Mulia,"
+    },
+    {
+      "id": 253,
+      "id_surah": 85,
+      "id_ayat": 16,
+      "arti_text": "Maha Kuasa berbuat apa yang dikehendaki-Nya."
+    },
+    {
+      "id": 254,
+      "id_surah": 85,
+      "id_ayat": 17,
+      "arti_text": "Sudahkah datang kepadamu berita kaum-kaum penentang,"
+    },
+    {
+      "id": 255,
+      "id_surah": 85,
+      "id_ayat": 18,
+      "arti_text": "(yaitu kaum) Fir´aun dan (kaum) Tsamud?"
+    },
+    {
+      "id": 256,
+      "id_surah": 85,
+      "id_ayat": 19,
+      "arti_text": "Sesungguhnya orang-orang kafir selalu mendustakan,"
+    },
+    {
+      "id": 257,
+      "id_surah": 85,
+      "id_ayat": 20,
+      "arti_text": "padahal Allah mengepung mereka dari belakang mereka."
+    },
+    {
+      "id": 258,
+      "id_surah": 85,
+      "id_ayat": 21,
+      "arti_text": "Bahkan yang didustakan mereka itu ialah Al Quran yang mulia,"
+    },
+    {
+      "id": 259,
+      "id_surah": 85,
+      "id_ayat": 22,
+      "arti_text": "yang (tersimpan) dalam Lauh Mahfuzh."
+    },
+    {
+      "id": 260,
+      "id_surah": 86,
+      "id_ayat": 1,
+      "arti_text": "Demi langit dan yang datang pada malam hari,"
+    },
+    {
+      "id": 261,
+      "id_surah": 86,
+      "id_ayat": 2,
+      "arti_text": "tahukah kamu apakah yang datang pada malam hari itu?"
+    },
+    {
+      "id": 262,
+      "id_surah": 86,
+      "id_ayat": 3,
+      "arti_text": "(yaitu) bintang yang cahayanya menembus,"
+    },
+    {
+      "id": 263,
+      "id_surah": 86,
+      "id_ayat": 4,
+      "arti_text": "tidak ada suatu jiwapun (diri) melainkan ada penjaganya."
+    },
+    {
+      "id": 264,
+      "id_surah": 86,
+      "id_ayat": 5,
+      "arti_text": "Maka hendaklah manusia memperhatikan dari apakah dia diciptakan?"
+    },
+    {
+      "id": 265,
+      "id_surah": 86,
+      "id_ayat": 6,
+      "arti_text": "Dia diciptakan dari air yang dipancarkan,"
+    },
+    {
+      "id": 266,
+      "id_surah": 86,
+      "id_ayat": 7,
+      "arti_text": "yang keluar dari antara tulang sulbi laki-laki dan tulang dada perempuan."
+    },
+    {
+      "id": 267,
+      "id_surah": 86,
+      "id_ayat": 8,
+      "arti_text": "Sesungguhnya Allah benar-benar kuasa untuk mengembalikannya (hidup sesudah mati)."
+    },
+    {
+      "id": 268,
+      "id_surah": 86,
+      "id_ayat": 9,
+      "arti_text": "Pada hari dinampakkan segala rahasia,"
+    },
+    {
+      "id": 269,
+      "id_surah": 86,
+      "id_ayat": 10,
+      "arti_text": "maka sekali-kali tidak ada bagi manusia itu suatu kekuatanpun dan tidak (pula) seorang penolong."
+    },
+    {
+      "id": 270,
+      "id_surah": 86,
+      "id_ayat": 11,
+      "arti_text": "Demi langit yang mengandung hujan"
+    },
+    {
+      "id": 271,
+      "id_surah": 86,
+      "id_ayat": 12,
+      "arti_text": "dan bumi yang mempunyai tumbuh-tumbuhan,"
+    },
+    {
+      "id": 272,
+      "id_surah": 86,
+      "id_ayat": 13,
+      "arti_text": "sesungguhnya Al Quran itu benar-benar firman yang memisahkan antara yang hak dan yang bathil."
+    },
+    {
+      "id": 273,
+      "id_surah": 86,
+      "id_ayat": 14,
+      "arti_text": "dan sekali-kali bukanlah dia senda gurau."
+    },
+    {
+      "id": 274,
+      "id_surah": 86,
+      "id_ayat": 15,
+      "arti_text": "Sesungguhnya orang kafir itu merencanakan tipu daya yang jahat dengan sebenar-benarnya."
+    },
+    {
+      "id": 275,
+      "id_surah": 86,
+      "id_ayat": 16,
+      "arti_text": "Dan Akupun membuat rencana (pula) dengan sebenar-benarnya."
+    },
+    {
+      "id": 276,
+      "id_surah": 86,
+      "id_ayat": 17,
+      "arti_text": "Karena itu beri tangguhlah orang-orang kafir itu yaitu beri tangguhlah mereka itu barang sebentar."
+    },
+    {
+      "id": 277,
+      "id_surah": 87,
+      "id_ayat": 1,
+      "arti_text": "Sucikanlah nama Tuhanmu Yang Maha Tingi,"
+    },
+    {
+      "id": 278,
+      "id_surah": 87,
+      "id_ayat": 2,
+      "arti_text": "yang menciptakan, dan menyempurnakan (penciptaan-Nya),"
+    },
+    {
+      "id": 279,
+      "id_surah": 87,
+      "id_ayat": 3,
+      "arti_text": "dan yang menentukan kadar (masing-masing) dan memberi petunjuk,"
+    },
+    {
+      "id": 280,
+      "id_surah": 87,
+      "id_ayat": 4,
+      "arti_text": "dan yang menumbuhkan rumput-rumputan,"
+    },
+    {
+      "id": 281,
+      "id_surah": 87,
+      "id_ayat": 5,
+      "arti_text": "lalu dijadikan-Nya rumput-rumput itu kering kehitam-hitaman."
+    },
+    {
+      "id": 282,
+      "id_surah": 87,
+      "id_ayat": 6,
+      "arti_text": "Kami akan membacakan (Al Quran) kepadamu (Muhammad) maka kamu tidak akan lupa,"
+    },
+    {
+      "id": 283,
+      "id_surah": 87,
+      "id_ayat": 7,
+      "arti_text": "kecuali kalau Allah menghendaki. Sesungguhnya Dia mengetahui yang terang dan yang tersembunyi."
+    },
+    {
+      "id": 284,
+      "id_surah": 87,
+      "id_ayat": 8,
+      "arti_text": "dan Kami akan memberi kamu taufik ke jalan yang mudah,"
+    },
+    {
+      "id": 285,
+      "id_surah": 87,
+      "id_ayat": 9,
+      "arti_text": "oleh sebab itu berikanlah peringatan karena peringatan itu bermanfaat,"
+    },
+    {
+      "id": 286,
+      "id_surah": 87,
+      "id_ayat": 10,
+      "arti_text": "orang yang takut (kepada Allah) akan mendapat pelajaran,"
+    },
+    {
+      "id": 287,
+      "id_surah": 87,
+      "id_ayat": 11,
+      "arti_text": "dan orang-orang yang celaka (kafir) akan menjauhinya."
+    },
+    {
+      "id": 288,
+      "id_surah": 87,
+      "id_ayat": 12,
+      "arti_text": "(Yaitu) orang yang akan memasuki api yang besar (neraka)."
+    },
+    {
+      "id": 289,
+      "id_surah": 87,
+      "id_ayat": 13,
+      "arti_text": "Kemudian dia tidak akan mati di dalamnya dan tidak (pula) hidup."
+    },
+    {
+      "id": 290,
+      "id_surah": 87,
+      "id_ayat": 14,
+      "arti_text": "Sesungguhnya beruntunglah orang yang membersihkan diri (dengan beriman),"
+    },
+    {
+      "id": 291,
+      "id_surah": 87,
+      "id_ayat": 15,
+      "arti_text": "dan dia ingat nama Tuhannya, lalu dia sembahyang."
+    },
+    {
+      "id": 292,
+      "id_surah": 87,
+      "id_ayat": 16,
+      "arti_text": "Tetapi kamu (orang-orang kafir) memilih kehidupan duniawi."
+    },
+    {
+      "id": 293,
+      "id_surah": 87,
+      "id_ayat": 17,
+      "arti_text": "Sedang kehidupan akhirat adalah lebih baik dan lebih kekal."
+    },
+    {
+      "id": 294,
+      "id_surah": 87,
+      "id_ayat": 18,
+      "arti_text": "Sesungguhnya ini benar-benar terdapat dalam kitab-kitab yang dahulu,"
+    },
+    {
+      "id": 295,
+      "id_surah": 87,
+      "id_ayat": 19,
+      "arti_text": "(yaitu) Kitab-kitab Ibrahim dan Musa"
+    },
+    {
+      "id": 296,
+      "id_surah": 88,
+      "id_ayat": 1,
+      "arti_text": "Sudah datangkah kepadamu berita (tentang) hari pembalasan?"
+    },
+    {
+      "id": 297,
+      "id_surah": 88,
+      "id_ayat": 2,
+      "arti_text": "Banyak muka pada hari itu tunduk terhina,"
+    },
+    {
+      "id": 298,
+      "id_surah": 88,
+      "id_ayat": 3,
+      "arti_text": "bekerja keras lagi kepayahan,"
+    },
+    {
+      "id": 299,
+      "id_surah": 88,
+      "id_ayat": 4,
+      "arti_text": "memasuki api yang sangat panas (neraka),"
+    },
+    {
+      "id": 300,
+      "id_surah": 88,
+      "id_ayat": 5,
+      "arti_text": "diberi minum (dengan air) dari sumber yang sangat panas."
+    },
+    {
+      "id": 301,
+      "id_surah": 88,
+      "id_ayat": 6,
+      "arti_text": "Mereka tiada memperoleh makanan selain dari pohon yang berduri,"
+    },
+    {
+      "id": 302,
+      "id_surah": 88,
+      "id_ayat": 7,
+      "arti_text": "yang tidak menggemukkan dan tidak pula menghilangkan lapar."
+    },
+    {
+      "id": 303,
+      "id_surah": 88,
+      "id_ayat": 8,
+      "arti_text": "Banyak muka pada hari itu berseri-seri,"
+    },
+    {
+      "id": 304,
+      "id_surah": 88,
+      "id_ayat": 9,
+      "arti_text": "merasa senang karena usahanya,"
+    },
+    {
+      "id": 305,
+      "id_surah": 88,
+      "id_ayat": 10,
+      "arti_text": "dalam surga yang tinggi,"
+    },
+    {
+      "id": 306,
+      "id_surah": 88,
+      "id_ayat": 11,
+      "arti_text": "tidak kamu dengar di dalamnya perkataan yang tidak berguna."
+    },
+    {
+      "id": 307,
+      "id_surah": 88,
+      "id_ayat": 12,
+      "arti_text": "Di dalamnya ada mata air yang mengalir."
+    },
+    {
+      "id": 308,
+      "id_surah": 88,
+      "id_ayat": 13,
+      "arti_text": "Di dalamnya ada takhta-takhta yang ditinggikan,"
+    },
+    {
+      "id": 309,
+      "id_surah": 88,
+      "id_ayat": 14,
+      "arti_text": "dan gelas-gelas yang terletak (di dekatnya),"
+    },
+    {
+      "id": 310,
+      "id_surah": 88,
+      "id_ayat": 15,
+      "arti_text": "dan bantal-bantal sandaran yang tersusun,"
+    },
+    {
+      "id": 311,
+      "id_surah": 88,
+      "id_ayat": 16,
+      "arti_text": "dan permadani-permadani yang terhampar."
+    },
+    {
+      "id": 312,
+      "id_surah": 88,
+      "id_ayat": 17,
+      "arti_text": "Maka apakah mereka tidak memperhatikan unta bagaimana dia diciptakan,"
+    },
+    {
+      "id": 313,
+      "id_surah": 88,
+      "id_ayat": 18,
+      "arti_text": "Dan langit, bagaimana ia ditinggikan?"
+    },
+    {
+      "id": 314,
+      "id_surah": 88,
+      "id_ayat": 19,
+      "arti_text": "Dan gunung-gunung bagaimana ia ditegakkan?"
+    },
+    {
+      "id": 315,
+      "id_surah": 88,
+      "id_ayat": 20,
+      "arti_text": "Dan bumi bagaimana ia dihamparkan?"
+    },
+    {
+      "id": 316,
+      "id_surah": 88,
+      "id_ayat": 21,
+      "arti_text": "Maka berilah peringatan, karena sesungguhnya kamu hanyalah orang yang memberi peringatan."
+    },
+    {
+      "id": 317,
+      "id_surah": 88,
+      "id_ayat": 22,
+      "arti_text": "Kamu bukanlah orang yang berkuasa atas mereka,"
+    },
+    {
+      "id": 318,
+      "id_surah": 88,
+      "id_ayat": 23,
+      "arti_text": "tetapi orang yang berpaling dan kafir,"
+    },
+    {
+      "id": 319,
+      "id_surah": 88,
+      "id_ayat": 24,
+      "arti_text": "maka Allah akan mengazabnya dengan azab yang besar."
+    },
+    {
+      "id": 320,
+      "id_surah": 88,
+      "id_ayat": 25,
+      "arti_text": "Sesungguhnya kepada Kami-lah kembali mereka,"
+    },
+    {
+      "id": 321,
+      "id_surah": 88,
+      "id_ayat": 26,
+      "arti_text": "kemudian sesungguhnya kewajiban Kami-lah menghisab mereka."
+    },
+    {
+      "id": 322,
+      "id_surah": 89,
+      "id_ayat": 1,
+      "arti_text": "Demi fajar,"
+    },
+    {
+      "id": 323,
+      "id_surah": 89,
+      "id_ayat": 2,
+      "arti_text": "dan malam yang sepuluh,"
+    },
+    {
+      "id": 324,
+      "id_surah": 89,
+      "id_ayat": 3,
+      "arti_text": "dan yang genap dan yang ganjil,"
+    },
+    {
+      "id": 325,
+      "id_surah": 89,
+      "id_ayat": 4,
+      "arti_text": "dan malam bila berlalu."
+    },
+    {
+      "id": 326,
+      "id_surah": 89,
+      "id_ayat": 5,
+      "arti_text": "Pada yang demikian itu terdapat sumpah (yang dapat diterima) oleh orang-orang yang berakal."
+    },
+    {
+      "id": 327,
+      "id_surah": 89,
+      "id_ayat": 6,
+      "arti_text": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu berbuat terhadap kaum ´Aad?"
+    },
+    {
+      "id": 328,
+      "id_surah": 89,
+      "id_ayat": 7,
+      "arti_text": "(yaitu) penduduk Iram yang mempunyai bangunan-bangunan yang tinggi,"
+    },
+    {
+      "id": 329,
+      "id_surah": 89,
+      "id_ayat": 8,
+      "arti_text": "yang belum pernah dibangun (suatu kota) seperti itu, di negeri-negeri lain,"
+    },
+    {
+      "id": 330,
+      "id_surah": 89,
+      "id_ayat": 9,
+      "arti_text": "dan kaum Tsamud yang memotong batu-batu besar di lembah,"
+    },
+    {
+      "id": 331,
+      "id_surah": 89,
+      "id_ayat": 10,
+      "arti_text": "dan kaum Fir´aun yang mempunyai pasak-pasak (tentara yang banyak),"
+    },
+    {
+      "id": 332,
+      "id_surah": 89,
+      "id_ayat": 11,
+      "arti_text": "yang berbuat sewenang-wenang dalam negeri,"
+    },
+    {
+      "id": 333,
+      "id_surah": 89,
+      "id_ayat": 12,
+      "arti_text": "lalu mereka berbuat banyak kerusakan dalam negeri itu,"
+    },
+    {
+      "id": 334,
+      "id_surah": 89,
+      "id_ayat": 13,
+      "arti_text": "karena itu Tuhanmu menimpakan kepada mereka cemeti azab,"
+    },
+    {
+      "id": 335,
+      "id_surah": 89,
+      "id_ayat": 14,
+      "arti_text": "sesungguhnya Tuhanmu benar-benar mengawasi."
+    },
+    {
+      "id": 336,
+      "id_surah": 89,
+      "id_ayat": 15,
+      "arti_text": "Adapun manusia apabila Tuhannya mengujinya lalu dia dimuliakan-Nya dan diberi-Nya kesenangan, maka dia akan berkata: &quot;Tuhanku telah memuliakanku&quot;."
+    },
+    {
+      "id": 337,
+      "id_surah": 89,
+      "id_ayat": 16,
+      "arti_text": "Adapun bila Tuhannya mengujinya lalu membatasi rezekinya maka dia berkata: &quot;Tuhanku menghinakanku&quot;."
+    },
+    {
+      "id": 338,
+      "id_surah": 89,
+      "id_ayat": 17,
+      "arti_text": "Sekali-kali tidak (demikian), sebenarnya kamu tidak memuliakan anak yatim,"
+    },
+    {
+      "id": 339,
+      "id_surah": 89,
+      "id_ayat": 18,
+      "arti_text": "dan kamu tidak saling mengajak memberi makan orang miskin,"
+    },
+    {
+      "id": 340,
+      "id_surah": 89,
+      "id_ayat": 19,
+      "arti_text": "dan kamu memakan harta pusaka dengan cara mencampur baurkan (yang halal dan yang bathil),"
+    },
+    {
+      "id": 341,
+      "id_surah": 89,
+      "id_ayat": 20,
+      "arti_text": "dan kamu mencintai harta benda dengan kecintaan yang berlebihan."
+    },
+    {
+      "id": 342,
+      "id_surah": 89,
+      "id_ayat": 21,
+      "arti_text": "Jangan (berbuat demikian). Apabila bumi digoncangkan berturut-turut,"
+    },
+    {
+      "id": 343,
+      "id_surah": 89,
+      "id_ayat": 22,
+      "arti_text": "dan datanglah Tuhanmu; sedang malaikat berbaris-baris."
+    },
+    {
+      "id": 344,
+      "id_surah": 89,
+      "id_ayat": 23,
+      "arti_text": "Dan pada hari itu diperlihatkan neraka Jahannam; dan pada hari itu ingatlah manusia, akan tetapi tidak berguna lagi mengingat itu baginya."
+    },
+    {
+      "id": 345,
+      "id_surah": 89,
+      "id_ayat": 24,
+      "arti_text": "Dia mengatakan: &quot;Alangkah baiknya kiranya aku dahulu mengerjakan (amal saleh) untuk hidupku ini&quot;."
+    },
+    {
+      "id": 346,
+      "id_surah": 89,
+      "id_ayat": 25,
+      "arti_text": "Maka pada hari itu tiada seorangpun yang menyiksa seperti siksa-Nya."
+    },
+    {
+      "id": 347,
+      "id_surah": 89,
+      "id_ayat": 26,
+      "arti_text": "dan tiada seorangpun yang mengikat seperti ikatan-Nya."
+    },
+    {
+      "id": 348,
+      "id_surah": 89,
+      "id_ayat": 27,
+      "arti_text": "Hai jiwa yang tenang."
+    },
+    {
+      "id": 349,
+      "id_surah": 89,
+      "id_ayat": 28,
+      "arti_text": "Kembalilah kepada Tuhanmu dengan hati yang puas lagi diridhai-Nya."
+    },
+    {
+      "id": 350,
+      "id_surah": 89,
+      "id_ayat": 29,
+      "arti_text": "Maka masuklah ke dalam jama´ah hamba-hamba-Ku,"
+    },
+    {
+      "id": 351,
+      "id_surah": 89,
+      "id_ayat": 30,
+      "arti_text": "masuklah ke dalam surga-Ku."
+    },
+    {
+      "id": 352,
+      "id_surah": 90,
+      "id_ayat": 1,
+      "arti_text": "Aku benar-benar bersumpah dengan kota ini (Mekah),"
+    },
+    {
+      "id": 353,
+      "id_surah": 90,
+      "id_ayat": 2,
+      "arti_text": "dan kamu (Muhammad) bertempat di kota Mekah ini,"
+    },
+    {
+      "id": 354,
+      "id_surah": 90,
+      "id_ayat": 3,
+      "arti_text": "dan demi bapak dan anaknya."
+    },
+    {
+      "id": 355,
+      "id_surah": 90,
+      "id_ayat": 4,
+      "arti_text": "Sesungguhnya Kami telah menciptakan manusia berada dalam susah payah."
+    },
+    {
+      "id": 356,
+      "id_surah": 90,
+      "id_ayat": 5,
+      "arti_text": "Apakah manusia itu menyangka bahwa sekali-kali tiada seorangpun yang berkuasa atasnya?"
+    },
+    {
+      "id": 357,
+      "id_surah": 90,
+      "id_ayat": 6,
+      "arti_text": "Dan mengatakan: &quot;Aku telah menghabiskan harta yang banyak&quot;."
+    },
+    {
+      "id": 358,
+      "id_surah": 90,
+      "id_ayat": 7,
+      "arti_text": "Apakah dia menyangka bahwa tiada seorangpun yang melihatnya?"
+    },
+    {
+      "id": 359,
+      "id_surah": 90,
+      "id_ayat": 8,
+      "arti_text": "Bukankah Kami telah memberikan kepadanya dua buah mata,"
+    },
+    {
+      "id": 360,
+      "id_surah": 90,
+      "id_ayat": 9,
+      "arti_text": "lidah dan dua buah bibir."
+    },
+    {
+      "id": 361,
+      "id_surah": 90,
+      "id_ayat": 10,
+      "arti_text": "Dan Kami telah menunjukkan kepadanya dua jalan,"
+    },
+    {
+      "id": 362,
+      "id_surah": 90,
+      "id_ayat": 11,
+      "arti_text": "Tetapi dia tiada menempuh jalan yang mendaki lagi sukar."
+    },
+    {
+      "id": 363,
+      "id_surah": 90,
+      "id_ayat": 12,
+      "arti_text": "Tahukah kamu apakah jalan yang mendaki lagi sukar itu?"
+    },
+    {
+      "id": 364,
+      "id_surah": 90,
+      "id_ayat": 13,
+      "arti_text": "(yaitu) melepaskan budak dari perbudakan,"
+    },
+    {
+      "id": 365,
+      "id_surah": 90,
+      "id_ayat": 14,
+      "arti_text": "atau memberi makan pada hari kelaparan,"
+    },
+    {
+      "id": 366,
+      "id_surah": 90,
+      "id_ayat": 15,
+      "arti_text": "(kepada) anak yatim yang ada hubungan kerabat,"
+    },
+    {
+      "id": 367,
+      "id_surah": 90,
+      "id_ayat": 16,
+      "arti_text": "atau kepada orang miskin yang sangat fakir."
+    },
+    {
+      "id": 368,
+      "id_surah": 90,
+      "id_ayat": 17,
+      "arti_text": "Dan dia (tidak pula) termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."
+    },
+    {
+      "id": 369,
+      "id_surah": 90,
+      "id_ayat": 18,
+      "arti_text": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."
+    },
+    {
+      "id": 370,
+      "id_surah": 90,
+      "id_ayat": 19,
+      "arti_text": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."
+    },
+    {
+      "id": 371,
+      "id_surah": 90,
+      "id_ayat": 20,
+      "arti_text": "Mereka berada dalam neraka yang ditutup rapat."
+    },
+    {
+      "id": 372,
+      "id_surah": 91,
+      "id_ayat": 1,
+      "arti_text": "Demi matahari dan cahayanya di pagi hari,"
+    },
+    {
+      "id": 373,
+      "id_surah": 91,
+      "id_ayat": 2,
+      "arti_text": "dan bulan apabila mengiringinya,"
+    },
+    {
+      "id": 374,
+      "id_surah": 91,
+      "id_ayat": 3,
+      "arti_text": "dan siang apabila menampakkannya,"
+    },
+    {
+      "id": 375,
+      "id_surah": 91,
+      "id_ayat": 4,
+      "arti_text": "dan malam apabila menutupinya,"
+    },
+    {
+      "id": 376,
+      "id_surah": 91,
+      "id_ayat": 5,
+      "arti_text": "dan langit serta pembinaannya,"
+    },
+    {
+      "id": 377,
+      "id_surah": 91,
+      "id_ayat": 6,
+      "arti_text": "dan bumi serta penghamparannya,"
+    },
+    {
+      "id": 378,
+      "id_surah": 91,
+      "id_ayat": 7,
+      "arti_text": "dan jiwa serta penyempurnaannya (ciptaannya),"
+    },
+    {
+      "id": 379,
+      "id_surah": 91,
+      "id_ayat": 8,
+      "arti_text": "maka Allah mengilhamkan kepada jiwa itu (jalan) kefasikan dan ketakwaannya."
+    },
+    {
+      "id": 380,
+      "id_surah": 91,
+      "id_ayat": 9,
+      "arti_text": "sesungguhnya beruntunglah orang yang mensucikan jiwa itu,"
+    },
+    {
+      "id": 381,
+      "id_surah": 91,
+      "id_ayat": 10,
+      "arti_text": "dan sesungguhnya merugilah orang yang mengotorinya."
+    },
+    {
+      "id": 382,
+      "id_surah": 91,
+      "id_ayat": 11,
+      "arti_text": "(Kaum) Tsamud telah mendustakan (rasulnya) karena mereka melampaui batas,"
+    },
+    {
+      "id": 383,
+      "id_surah": 91,
+      "id_ayat": 12,
+      "arti_text": "ketika bangkit orang yang paling celaka di antara mereka,"
+    },
+    {
+      "id": 384,
+      "id_surah": 91,
+      "id_ayat": 13,
+      "arti_text": "lalu Rasul Allah (Saleh) berkata kepada mereka: (&quot;Biarkanlah) unta betina Allah dan minumannya&quot;."
+    },
+    {
+      "id": 385,
+      "id_surah": 91,
+      "id_ayat": 14,
+      "arti_text": "Lalu mereka mendustakannya dan menyembelih unta itu, maka Tuhan mereka membinasakan mereka disebabkan dosa mereka, lalu Allah menyama-ratakan mereka (dengan tanah),"
+    },
+    {
+      "id": 386,
+      "id_surah": 91,
+      "id_ayat": 15,
+      "arti_text": "dan Allah tidak takut terhadap akibat tindakan-Nya itu."
+    },
+    {
+      "id": 387,
+      "id_surah": 92,
+      "id_ayat": 1,
+      "arti_text": "Demi malam apabila menutupi (cahaya siang),"
+    },
+    {
+      "id": 388,
+      "id_surah": 92,
+      "id_ayat": 2,
+      "arti_text": "dan siang apabila terang benderang,"
+    },
+    {
+      "id": 389,
+      "id_surah": 92,
+      "id_ayat": 3,
+      "arti_text": "dan penciptaan laki-laki dan perempuan,"
+    },
+    {
+      "id": 390,
+      "id_surah": 92,
+      "id_ayat": 4,
+      "arti_text": "sesungguhnya usaha kamu memang berbeda-beda."
+    },
+    {
+      "id": 391,
+      "id_surah": 92,
+      "id_ayat": 5,
+      "arti_text": "Adapun orang yang memberikan (hartanya di jalan Allah) dan bertakwa,"
+    },
+    {
+      "id": 392,
+      "id_surah": 92,
+      "id_ayat": 6,
+      "arti_text": "dan membenarkan adanya pahala yang terbaik (surga),"
+    },
+    {
+      "id": 393,
+      "id_surah": 92,
+      "id_ayat": 7,
+      "arti_text": "maka Kami kelak akan menyiapkan baginya jalan yang mudah."
+    },
+    {
+      "id": 394,
+      "id_surah": 92,
+      "id_ayat": 8,
+      "arti_text": "Dan adapun orang-orang yang bakhil dan merasa dirinya cukup,"
+    },
+    {
+      "id": 395,
+      "id_surah": 92,
+      "id_ayat": 9,
+      "arti_text": "serta mendustakan pahala terbaik,"
+    },
+    {
+      "id": 396,
+      "id_surah": 92,
+      "id_ayat": 10,
+      "arti_text": "maka kelak Kami akan menyiapkan baginya (jalan) yang sukar."
+    },
+    {
+      "id": 397,
+      "id_surah": 92,
+      "id_ayat": 11,
+      "arti_text": "Dan hartanya tidak bermanfaat baginya apabila ia telah binasa."
+    },
+    {
+      "id": 398,
+      "id_surah": 92,
+      "id_ayat": 12,
+      "arti_text": "Sesungguhnya kewajiban Kamilah memberi petunjuk,"
+    },
+    {
+      "id": 399,
+      "id_surah": 92,
+      "id_ayat": 13,
+      "arti_text": "dan sesungguhnya kepunyaan Kamilah akhirat dan dunia."
+    },
+    {
+      "id": 400,
+      "id_surah": 92,
+      "id_ayat": 14,
+      "arti_text": "Maka, kami memperingatkan kamu dengan neraka yang menyala-nyala."
+    },
+    {
+      "id": 401,
+      "id_surah": 92,
+      "id_ayat": 15,
+      "arti_text": "Tidak ada yang masuk ke dalamnya kecuali orang yang paling celaka,"
+    },
+    {
+      "id": 402,
+      "id_surah": 92,
+      "id_ayat": 16,
+      "arti_text": "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+    },
+    {
+      "id": 403,
+      "id_surah": 92,
+      "id_ayat": 17,
+      "arti_text": "Dan kelak akan dijauhkan orang yang paling takwa dari neraka itu,"
+    },
+    {
+      "id": 404,
+      "id_surah": 92,
+      "id_ayat": 18,
+      "arti_text": "yang menafkahkan hartanya (di jalan Allah) untuk membersihkannya,"
+    },
+    {
+      "id": 405,
+      "id_surah": 92,
+      "id_ayat": 19,
+      "arti_text": "padahal tidak ada seseorangpun memberikan suatu nikmat kepadanya yang harus dibalasnya,"
+    },
+    {
+      "id": 406,
+      "id_surah": 92,
+      "id_ayat": 20,
+      "arti_text": "tetapi (dia memberikan itu semata-mata) karena mencari keridhaan Tuhannya yang Maha Tinggi."
+    },
+    {
+      "id": 407,
+      "id_surah": 92,
+      "id_ayat": 21,
+      "arti_text": "Dan kelak dia benar-benar mendapat kepuasan."
+    },
+    {
+      "id": 408,
+      "id_surah": 93,
+      "id_ayat": 1,
+      "arti_text": "Demi waktu matahari sepenggalahan naik,"
+    },
+    {
+      "id": 409,
+      "id_surah": 93,
+      "id_ayat": 2,
+      "arti_text": "dan demi malam apabila telah sunyi (gelap),"
+    },
+    {
+      "id": 410,
+      "id_surah": 93,
+      "id_ayat": 3,
+      "arti_text": "Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu."
+    },
+    {
+      "id": 411,
+      "id_surah": 93,
+      "id_ayat": 4,
+      "arti_text": "Dan sesungguhnya hari kemudian itu lebih baik bagimu daripada yang sekarang (permulaan)."
+    },
+    {
+      "id": 412,
+      "id_surah": 93,
+      "id_ayat": 5,
+      "arti_text": "Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu , lalu (hati) kamu menjadi puas."
+    },
+    {
+      "id": 413,
+      "id_surah": 93,
+      "id_ayat": 6,
+      "arti_text": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?"
+    },
+    {
+      "id": 414,
+      "id_surah": 93,
+      "id_ayat": 7,
+      "arti_text": "Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk."
+    },
+    {
+      "id": 415,
+      "id_surah": 93,
+      "id_ayat": 8,
+      "arti_text": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan."
+    },
+    {
+      "id": 416,
+      "id_surah": 93,
+      "id_ayat": 9,
+      "arti_text": "Sebab itu, terhadap anak yatim janganlah kamu berlaku sewenang-wenang."
+    },
+    {
+      "id": 417,
+      "id_surah": 93,
+      "id_ayat": 10,
+      "arti_text": "Dan terhadap orang yang minta-minta, janganlah kamu menghardiknya."
+    },
+    {
+      "id": 418,
+      "id_surah": 93,
+      "id_ayat": 11,
+      "arti_text": "Dan terhadap nikmat Tuhanmu, maka hendaklah kamu siarkan."
+    },
+    {
+      "id": 419,
+      "id_surah": 94,
+      "id_ayat": 1,
+      "arti_text": "Bukankah Kami telah melapangkan untukmu dadamu?,"
+    },
+    {
+      "id": 420,
+      "id_surah": 94,
+      "id_ayat": 2,
+      "arti_text": "dan Kami telah menghilangkan daripadamu bebanmu,"
+    },
+    {
+      "id": 421,
+      "id_surah": 94,
+      "id_ayat": 3,
+      "arti_text": "yang memberatkan punggungmu?"
+    },
+    {
+      "id": 422,
+      "id_surah": 94,
+      "id_ayat": 4,
+      "arti_text": "Dan Kami tinggikan bagimu sebutan (nama)mu,"
+    },
+    {
+      "id": 423,
+      "id_surah": 94,
+      "id_ayat": 5,
+      "arti_text": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan,"
+    },
+    {
+      "id": 424,
+      "id_surah": 94,
+      "id_ayat": 6,
+      "arti_text": "sesungguhnya sesudah kesulitan itu ada kemudahan."
+    },
+    {
+      "id": 425,
+      "id_surah": 94,
+      "id_ayat": 7,
+      "arti_text": "Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain,"
+    },
+    {
+      "id": 426,
+      "id_surah": 94,
+      "id_ayat": 8,
+      "arti_text": "dan hanya kepada Tuhanmulah hendaknya kamu berharap."
+    },
+    {
+      "id": 427,
+      "id_surah": 95,
+      "id_ayat": 1,
+      "arti_text": "Demi (buah) Tin dan (buah) Zaitun,"
+    },
+    {
+      "id": 428,
+      "id_surah": 95,
+      "id_ayat": 2,
+      "arti_text": "dan demi bukit Sinai,"
+    },
+    {
+      "id": 429,
+      "id_surah": 95,
+      "id_ayat": 3,
+      "arti_text": "dan demi kota (Mekah) ini yang aman,"
+    },
+    {
+      "id": 430,
+      "id_surah": 95,
+      "id_ayat": 4,
+      "arti_text": "sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya."
+    },
+    {
+      "id": 431,
+      "id_surah": 95,
+      "id_ayat": 5,
+      "arti_text": "Kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya (neraka),"
+    },
+    {
+      "id": 432,
+      "id_surah": 95,
+      "id_ayat": 6,
+      "arti_text": "kecuali orang-orang yang beriman dan mengerjakan amal saleh; maka bagi mereka pahala yang tiada putus-putusnya."
+    },
+    {
+      "id": 433,
+      "id_surah": 95,
+      "id_ayat": 7,
+      "arti_text": "Maka apakah yang menyebabkan kamu mendustakan (hari) pembalasan sesudah (adanya keterangan-keterangan) itu?"
+    },
+    {
+      "id": 434,
+      "id_surah": 95,
+      "id_ayat": 8,
+      "arti_text": "Bukankah Allah Hakim yang seadil-adilnya?"
+    },
+    {
+      "id": 435,
+      "id_surah": 96,
+      "id_ayat": 1,
+      "arti_text": "Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan,"
+    },
+    {
+      "id": 436,
+      "id_surah": 96,
+      "id_ayat": 2,
+      "arti_text": "Dia telah menciptakan manusia dari segumpal darah."
+    },
+    {
+      "id": 437,
+      "id_surah": 96,
+      "id_ayat": 3,
+      "arti_text": "Bacalah, dan Tuhanmulah Yang Maha Pemurah,"
+    },
+    {
+      "id": 438,
+      "id_surah": 96,
+      "id_ayat": 4,
+      "arti_text": "Yang mengajar (manusia) dengan perantaran kalam,"
+    },
+    {
+      "id": 439,
+      "id_surah": 96,
+      "id_ayat": 5,
+      "arti_text": "Dia mengajar kepada manusia apa yang tidak diketahuinya."
+    },
+    {
+      "id": 440,
+      "id_surah": 96,
+      "id_ayat": 6,
+      "arti_text": "Ketahuilah! Sesungguhnya manusia benar-benar melampaui batas,"
+    },
+    {
+      "id": 441,
+      "id_surah": 96,
+      "id_ayat": 7,
+      "arti_text": "karena dia melihat dirinya serba cukup."
+    },
+    {
+      "id": 442,
+      "id_surah": 96,
+      "id_ayat": 8,
+      "arti_text": "Sesungguhnya hanya kepada Tuhanmulah kembali(mu)."
+    },
+    {
+      "id": 443,
+      "id_surah": 96,
+      "id_ayat": 9,
+      "arti_text": "Bagaimana pendapatmu tentang orang yang melarang,"
+    },
+    {
+      "id": 444,
+      "id_surah": 96,
+      "id_ayat": 10,
+      "arti_text": "seorang hamba ketika mengerjakan shalat,"
+    },
+    {
+      "id": 445,
+      "id_surah": 96,
+      "id_ayat": 11,
+      "arti_text": "bagaimana pendapatmu jika orang yang melarang itu berada di atas kebenaran,"
+    },
+    {
+      "id": 446,
+      "id_surah": 96,
+      "id_ayat": 12,
+      "arti_text": "atau dia menyuruh bertakwa (kepada Allah)?"
+    },
+    {
+      "id": 447,
+      "id_surah": 96,
+      "id_ayat": 13,
+      "arti_text": "Bagaimana pendapatmu jika orang yang melarang itu mendustakan dan berpaling?"
+    },
+    {
+      "id": 448,
+      "id_surah": 96,
+      "id_ayat": 14,
+      "arti_text": "Tidaklah dia mengetahui bahwa sesungguhnya Allah melihat segala perbuatannya?"
+    },
+    {
+      "id": 449,
+      "id_surah": 96,
+      "id_ayat": 15,
+      "arti_text": "Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya,"
+    },
+    {
+      "id": 450,
+      "id_surah": 96,
+      "id_ayat": 16,
+      "arti_text": "(yaitu) ubun-ubun orang yang mendustakan lagi durhaka."
+    },
+    {
+      "id": 451,
+      "id_surah": 96,
+      "id_ayat": 17,
+      "arti_text": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+    },
+    {
+      "id": 452,
+      "id_surah": 96,
+      "id_ayat": 18,
+      "arti_text": "kelak Kami akan memanggil malaikat Zabaniyah,"
+    },
+    {
+      "id": 453,
+      "id_surah": 96,
+      "id_ayat": 19,
+      "arti_text": "sekali-kali jangan, janganlah kamu patuh kepadanya; dan sujudlah dan dekatkanlah (dirimu kepada Tuhan)."
+    },
+    {
+      "id": 454,
+      "id_surah": 97,
+      "id_ayat": 1,
+      "arti_text": "Sesungguhnya Kami telah menurunkannya (Al Quran) pada malam kemuliaan."
+    },
+    {
+      "id": 455,
+      "id_surah": 97,
+      "id_ayat": 2,
+      "arti_text": "Dan tahukah kamu apakah malam kemuliaan itu?"
+    },
+    {
+      "id": 456,
+      "id_surah": 97,
+      "id_ayat": 3,
+      "arti_text": "Malam kemuliaan itu lebih baik dari seribu bulan."
+    },
+    {
+      "id": 457,
+      "id_surah": 97,
+      "id_ayat": 4,
+      "arti_text": "Pada malam itu turun malaikat-malaikat dan malaikat Jibril dengan izin Tuhannya untuk mengatur segala urusan."
+    },
+    {
+      "id": 458,
+      "id_surah": 97,
+      "id_ayat": 5,
+      "arti_text": "Malam itu (penuh) kesejahteraan sampai terbit fajar."
+    },
+    {
+      "id": 459,
+      "id_surah": 98,
+      "id_ayat": 1,
+      "arti_text": "Orang-orang kafir yakni ahli Kitab dan orang-orang musyrik (mengatakan bahwa mereka) tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata,"
+    },
+    {
+      "id": 460,
+      "id_surah": 98,
+      "id_ayat": 2,
+      "arti_text": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang disucikan (Al Quran),"
+    },
+    {
+      "id": 461,
+      "id_surah": 98,
+      "id_ayat": 3,
+      "arti_text": "di dalamnya terdapat (isi) Kitab-kitab yang lurus."
+    },
+    {
+      "id": 462,
+      "id_surah": 98,
+      "id_ayat": 4,
+      "arti_text": "Dan tidaklah berpecah belah orang-orang yang didatangkan Al Kitab (kepada mereka) melainkan sesudah datang kepada mereka bukti yang nyata."
+    },
+    {
+      "id": 463,
+      "id_surah": 98,
+      "id_ayat": 5,
+      "arti_text": "Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama yang lurus, dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus."
+    },
+    {
+      "id": 464,
+      "id_surah": 98,
+      "id_ayat": 6,
+      "arti_text": "Sesungguhnya orang-orang yang kafir yakni ahli Kitab dan orang-orang yang musyrik (akan masuk) ke neraka Jahannam; mereka kekal di dalamnya. Mereka itu adalah seburuk-buruk makhluk."
+    },
+    {
+      "id": 465,
+      "id_surah": 98,
+      "id_ayat": 7,
+      "arti_text": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh, mereka itu adalah sebaik-baik makhluk."
+    },
+    {
+      "id": 466,
+      "id_surah": 98,
+      "id_ayat": 8,
+      "arti_text": "Balasan mereka di sisi Tuhan mereka ialah surga ´Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah ridha terhadap mereka dan merekapun ridha kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya."
+    },
+    {
+      "id": 467,
+      "id_surah": 99,
+      "id_ayat": 1,
+      "arti_text": "Apabila bumi digoncangkan dengan goncangan (yang dahsyat),"
+    },
+    {
+      "id": 468,
+      "id_surah": 99,
+      "id_ayat": 2,
+      "arti_text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+    },
+    {
+      "id": 469,
+      "id_surah": 99,
+      "id_ayat": 3,
+      "arti_text": "dan manusia bertanya: &quot;Mengapa bumi (menjadi begini)?&quot;,"
+    },
+    {
+      "id": 470,
+      "id_surah": 99,
+      "id_ayat": 4,
+      "arti_text": "pada hari itu bumi menceritakan beritanya,"
+    },
+    {
+      "id": 471,
+      "id_surah": 99,
+      "id_ayat": 5,
+      "arti_text": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) kepadanya."
+    },
+    {
+      "id": 472,
+      "id_surah": 99,
+      "id_ayat": 6,
+      "arti_text": "Pada hari itu manusia ke luar dari kuburnya dalam keadaan bermacam-macam, supaya diperlihatkan kepada mereka (balasan) pekerjaan mereka,"
+    },
+    {
+      "id": 473,
+      "id_surah": 99,
+      "id_ayat": 7,
+      "arti_text": "Barangsiapa yang mengerjakan kebaikan seberat dzarrahpun, niscaya dia akan melihat (balasan)nya."
+    },
+    {
+      "id": 474,
+      "id_surah": 99,
+      "id_ayat": 8,
+      "arti_text": "Dan barangsiapa yang mengerjakan kejahatan sebesar dzarrahpun, niscaya dia akan melihat (balasan)nya pula."
+    },
+    {
+      "id": 475,
+      "id_surah": 100,
+      "id_ayat": 1,
+      "arti_text": "Demi kuda perang yang berlari kencang dengan terengah-engah,"
+    },
+    {
+      "id": 476,
+      "id_surah": 100,
+      "id_ayat": 2,
+      "arti_text": "dan kuda yang mencetuskan api dengan pukulan (kuku kakinya),"
+    },
+    {
+      "id": 477,
+      "id_surah": 100,
+      "id_ayat": 3,
+      "arti_text": "dan kuda yang menyerang dengan tiba-tiba di waktu pagi,"
+    },
+    {
+      "id": 478,
+      "id_surah": 100,
+      "id_ayat": 4,
+      "arti_text": "maka ia menerbangkan debu,"
+    },
+    {
+      "id": 479,
+      "id_surah": 100,
+      "id_ayat": 5,
+      "arti_text": "dan menyerbu ke tengah-tengah kumpulan musuh,"
+    },
+    {
+      "id": 480,
+      "id_surah": 100,
+      "id_ayat": 6,
+      "arti_text": "sesungguhnya manusia itu sangat ingkar, tidak berterima kasih kepada Tuhannya,"
+    },
+    {
+      "id": 481,
+      "id_surah": 100,
+      "id_ayat": 7,
+      "arti_text": "dan sesungguhnya manusia itu menyaksikan (sendiri) keingkarannya,"
+    },
+    {
+      "id": 482,
+      "id_surah": 100,
+      "id_ayat": 8,
+      "arti_text": "dan sesungguhnya dia sangat bakhil karena cintanya kepada harta."
+    },
+    {
+      "id": 483,
+      "id_surah": 100,
+      "id_ayat": 9,
+      "arti_text": "Maka apakah dia tidak mengetahui apabila dibangkitkan apa yang ada di dalam kubur,"
+    },
+    {
+      "id": 484,
+      "id_surah": 100,
+      "id_ayat": 10,
+      "arti_text": "dan dilahirkan apa yang ada di dalam dada,"
+    },
+    {
+      "id": 485,
+      "id_surah": 100,
+      "id_ayat": 11,
+      "arti_text": "sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui keadaan mereka."
+    },
+    {
+      "id": 486,
+      "id_surah": 101,
+      "id_ayat": 1,
+      "arti_text": "Hari Kiamat,"
+    },
+    {
+      "id": 487,
+      "id_surah": 101,
+      "id_ayat": 2,
+      "arti_text": "apakah hari Kiamat itu?"
+    },
+    {
+      "id": 488,
+      "id_surah": 101,
+      "id_ayat": 3,
+      "arti_text": "Tahukah kamu apakah hari Kiamat itu?"
+    },
+    {
+      "id": 489,
+      "id_surah": 101,
+      "id_ayat": 4,
+      "arti_text": "Pada hari itu manusia adalah seperti anai-anai yang bertebaran,"
+    },
+    {
+      "id": 490,
+      "id_surah": 101,
+      "id_ayat": 5,
+      "arti_text": "dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan."
+    },
+    {
+      "id": 491,
+      "id_surah": 101,
+      "id_ayat": 6,
+      "arti_text": "Dan adapun orang-orang yang berat timbangan (kebaikan)nya,"
+    },
+    {
+      "id": 492,
+      "id_surah": 101,
+      "id_ayat": 7,
+      "arti_text": "maka dia berada dalam kehidupan yang memuaskan."
+    },
+    {
+      "id": 493,
+      "id_surah": 101,
+      "id_ayat": 8,
+      "arti_text": "Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,"
+    },
+    {
+      "id": 494,
+      "id_surah": 101,
+      "id_ayat": 9,
+      "arti_text": "maka tempat kembalinya adalah neraka Hawiyah."
+    },
+    {
+      "id": 495,
+      "id_surah": 101,
+      "id_ayat": 10,
+      "arti_text": "Tahukah kamu apakah neraka Hawiyah itu?"
+    },
+    {
+      "id": 496,
+      "id_surah": 101,
+      "id_ayat": 11,
+      "arti_text": "(Yaitu) api yang sangat panas."
+    },
+    {
+      "id": 497,
+      "id_surah": 102,
+      "id_ayat": 1,
+      "arti_text": "Bermegah-megahan telah melalaikan kamu,"
+    },
+    {
+      "id": 498,
+      "id_surah": 102,
+      "id_ayat": 2,
+      "arti_text": "sampai kamu masuk ke dalam kubur."
+    },
+    {
+      "id": 499,
+      "id_surah": 102,
+      "id_ayat": 3,
+      "arti_text": "Janganlah begitu, kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+    },
+    {
+      "id": 500,
+      "id_surah": 102,
+      "id_ayat": 4,
+      "arti_text": "dan janganlah begitu, kelak kamu akan mengetahui."
+    },
+    {
+      "id": 501,
+      "id_surah": 102,
+      "id_ayat": 5,
+      "arti_text": "Janganlah begitu, jika kamu mengetahui dengan pengetahuan yang yakin,"
+    },
+    {
+      "id": 502,
+      "id_surah": 102,
+      "id_ayat": 6,
+      "arti_text": "niscaya kamu benar-benar akan melihat neraka Jahiim,"
+    },
+    {
+      "id": 503,
+      "id_surah": 102,
+      "id_ayat": 7,
+      "arti_text": "dan sesungguhnya kamu benar-benar akan melihatnya dengan ´ainul yaqin."
+    },
+    {
+      "id": 504,
+      "id_surah": 102,
+      "id_ayat": 8,
+      "arti_text": "kemudian kamu pasti akan ditanyai pada hari itu tentang kenikmatan (yang kamu megah-megahkan di dunia itu)."
+    },
+    {
+      "id": 505,
+      "id_surah": 103,
+      "id_ayat": 1,
+      "arti_text": "Demi masa."
+    },
+    {
+      "id": 506,
+      "id_surah": 103,
+      "id_ayat": 2,
+      "arti_text": "Sesungguhnya manusia itu benar-benar dalam kerugian,"
+    },
+    {
+      "id": 507,
+      "id_surah": 103,
+      "id_ayat": 3,
+      "arti_text": "kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran."
+    },
+    {
+      "id": 508,
+      "id_surah": 104,
+      "id_ayat": 1,
+      "arti_text": "Kecelakaanlah bagi setiap pengumpat lagi pencela,"
+    },
+    {
+      "id": 509,
+      "id_surah": 104,
+      "id_ayat": 2,
+      "arti_text": "yang mengumpulkan harta dan menghitung-hitung,"
+    },
+    {
+      "id": 510,
+      "id_surah": 104,
+      "id_ayat": 3,
+      "arti_text": "dia mengira bahwa hartanya itu dapat mengkekalkannya,"
+    },
+    {
+      "id": 511,
+      "id_surah": 104,
+      "id_ayat": 4,
+      "arti_text": "sekali-kali tidak! Sesungguhnya dia benar-benar akan dilemparkan ke dalam Huthamah."
+    },
+    {
+      "id": 512,
+      "id_surah": 104,
+      "id_ayat": 5,
+      "arti_text": "Dan tahukah kamu apa Huthamah itu?"
+    },
+    {
+      "id": 513,
+      "id_surah": 104,
+      "id_ayat": 6,
+      "arti_text": "(yaitu) api (yang disediakan) Allah yang dinyalakan,"
+    },
+    {
+      "id": 514,
+      "id_surah": 104,
+      "id_ayat": 7,
+      "arti_text": "yang (membakar) sampai ke hati."
+    },
+    {
+      "id": 515,
+      "id_surah": 104,
+      "id_ayat": 8,
+      "arti_text": "Sesungguhnya api itu ditutup rapat atas mereka,"
+    },
+    {
+      "id": 516,
+      "id_surah": 104,
+      "id_ayat": 9,
+      "arti_text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+    },
+    {
+      "id": 517,
+      "id_surah": 105,
+      "id_ayat": 1,
+      "arti_text": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?"
+    },
+    {
+      "id": 518,
+      "id_surah": 105,
+      "id_ayat": 2,
+      "arti_text": "Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Ka´bah) itu sia-sia?"
+    },
+    {
+      "id": 519,
+      "id_surah": 105,
+      "id_ayat": 3,
+      "arti_text": "dan Dia mengirimkan kapada mereka burung yang berbondong-bondong,"
+    },
+    {
+      "id": 520,
+      "id_surah": 105,
+      "id_ayat": 4,
+      "arti_text": "yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,"
+    },
+    {
+      "id": 521,
+      "id_surah": 105,
+      "id_ayat": 5,
+      "arti_text": "lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat)."
+    },
+    {
+      "id": 522,
+      "id_surah": 106,
+      "id_ayat": 1,
+      "arti_text": "Karena kebiasaan orang-orang Quraisy,"
+    },
+    {
+      "id": 523,
+      "id_surah": 106,
+      "id_ayat": 2,
+      "arti_text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas."
+    },
+    {
+      "id": 524,
+      "id_surah": 106,
+      "id_ayat": 3,
+      "arti_text": "Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka´bah)."
+    },
+    {
+      "id": 525,
+      "id_surah": 106,
+      "id_ayat": 4,
+      "arti_text": "Yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari ketakutan."
+    },
+    {
+      "id": 526,
+      "id_surah": 107,
+      "id_ayat": 1,
+      "arti_text": "Tahukah kamu (orang) yang mendustakan agama?"
+    },
+    {
+      "id": 527,
+      "id_surah": 107,
+      "id_ayat": 2,
+      "arti_text": "Itulah orang yang menghardik anak yatim,"
+    },
+    {
+      "id": 528,
+      "id_surah": 107,
+      "id_ayat": 3,
+      "arti_text": "dan tidak menganjurkan memberi makan orang miskin."
+    },
+    {
+      "id": 529,
+      "id_surah": 107,
+      "id_ayat": 4,
+      "arti_text": "Maka kecelakaanlah bagi orang-orang yang shalat,"
+    },
+    {
+      "id": 530,
+      "id_surah": 107,
+      "id_ayat": 5,
+      "arti_text": "(yaitu) orang-orang yang lalai dari shalatnya,"
+    },
+    {
+      "id": 531,
+      "id_surah": 107,
+      "id_ayat": 6,
+      "arti_text": "orang-orang yang berbuat riya,"
+    },
+    {
+      "id": 532,
+      "id_surah": 107,
+      "id_ayat": 7,
+      "arti_text": "dan enggan (menolong dengan) barang berguna."
+    },
+    {
+      "id": 533,
+      "id_surah": 108,
+      "id_ayat": 1,
+      "arti_text": "Sesungguhnya Kami telah memberikan kepadamu nikmat yang banyak."
+    },
+    {
+      "id": 534,
+      "id_surah": 108,
+      "id_ayat": 2,
+      "arti_text": "Maka dirikanlah shalat karena Tuhanmu; dan berkorbanlah."
+    },
+    {
+      "id": 535,
+      "id_surah": 108,
+      "id_ayat": 3,
+      "arti_text": "Sesungguhnya orang-orang yang membenci kamu dialah yang terputus."
+    },
+    {
+      "id": 536,
+      "id_surah": 109,
+      "id_ayat": 1,
+      "arti_text": "Katakanlah: &quot;Hai orang-orang kafir,"
+    },
+    {
+      "id": 537,
+      "id_surah": 109,
+      "id_ayat": 2,
+      "arti_text": "Aku tidak akan menyembah apa yang kamu sembah."
+    },
+    {
+      "id": 538,
+      "id_surah": 109,
+      "id_ayat": 3,
+      "arti_text": "Dan kamu bukan penyembah Tuhan yang aku sembah."
+    },
+    {
+      "id": 539,
+      "id_surah": 109,
+      "id_ayat": 4,
+      "arti_text": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+    },
+    {
+      "id": 540,
+      "id_surah": 109,
+      "id_ayat": 5,
+      "arti_text": "dan kamu tidak pernah (pula) menjadi penyembah Tuhan yang aku sembah."
+    },
+    {
+      "id": 541,
+      "id_surah": 109,
+      "id_ayat": 6,
+      "arti_text": "Untukmu agamamu, dan untukkulah, agamaku&quot;."
+    },
+    {
+      "id": 542,
+      "id_surah": 110,
+      "id_ayat": 1,
+      "arti_text": "Apabila telah datang pertolongan Allah dan kemenangan,"
+    },
+    {
+      "id": 543,
+      "id_surah": 110,
+      "id_ayat": 2,
+      "arti_text": "dan kamu lihat manusia masuk agama Allah dengan berbondong-bondong,"
+    },
+    {
+      "id": 544,
+      "id_surah": 110,
+      "id_ayat": 3,
+      "arti_text": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah Maha Penerima taubat."
+    },
+    {
+      "id": 545,
+      "id_surah": 111,
+      "id_ayat": 1,
+      "arti_text": "Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa."
+    },
+    {
+      "id": 546,
+      "id_surah": 111,
+      "id_ayat": 2,
+      "arti_text": "Tidaklah berfaedah kepadanya harta bendanya dan apa yang ia usahakan."
+    },
+    {
+      "id": 547,
+      "id_surah": 111,
+      "id_ayat": 3,
+      "arti_text": "Kelak dia akan masuk ke dalam api yang bergejolak."
+    },
+    {
+      "id": 548,
+      "id_surah": 111,
+      "id_ayat": 4,
+      "arti_text": "Dan (begitu pula) istrinya, pembawa kayu bakar."
+    },
+    {
+      "id": 549,
+      "id_surah": 111,
+      "id_ayat": 5,
+      "arti_text": "Yang di lehernya ada tali dari sabut."
+    },
+    {
+      "id": 550,
+      "id_surah": 112,
+      "id_ayat": 1,
+      "arti_text": "Katakanlah: &quot;Dialah Allah, Yang Maha Esa."
+    },
+    {
+      "id": 551,
+      "id_surah": 112,
+      "id_ayat": 2,
+      "arti_text": "Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu."
+    },
+    {
+      "id": 552,
+      "id_surah": 112,
+      "id_ayat": 3,
+      "arti_text": "Dia tiada beranak dan tidak pula diperanakkan,"
+    },
+    {
+      "id": 553,
+      "id_surah": 112,
+      "id_ayat": 4,
+      "arti_text": "dan tidak ada seorangpun yang setara dengan Dia&quot;."
+    },
+    {
+      "id": 554,
+      "id_surah": 113,
+      "id_ayat": 1,
+      "arti_text": "Katakanlah: &quot;Aku berlindung kepada Tuhan Yang Menguasai subuh,"
+    },
+    {
+      "id": 555,
+      "id_surah": 113,
+      "id_ayat": 2,
+      "arti_text": "dari kejahatan makhluk-Nya,"
+    },
+    {
+      "id": 556,
+      "id_surah": 113,
+      "id_ayat": 3,
+      "arti_text": "dan dari kejahatan malam apabila telah gelap gulita,"
+    },
+    {
+      "id": 557,
+      "id_surah": 113,
+      "id_ayat": 4,
+      "arti_text": "dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,"
+    },
+    {
+      "id": 558,
+      "id_surah": 113,
+      "id_ayat": 5,
+      "arti_text": "dan dari kejahatan pendengki bila ia dengki&quot;."
+    },
+    {
+      "id": 559,
+      "id_surah": 114,
+      "id_ayat": 1,
+      "arti_text": "Katakanlah: &quot;Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia."
+    },
+    {
+      "id": 560,
+      "id_surah": 114,
+      "id_ayat": 2,
+      "arti_text": "Raja manusia."
+    },
+    {
+      "id": 561,
+      "id_surah": 114,
+      "id_ayat": 3,
+      "arti_text": "Sembahan manusia."
+    },
+    {
+      "id": 562,
+      "id_surah": 114,
+      "id_ayat": 4,
+      "arti_text": "Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,"
+    },
+    {
+      "id": 563,
+      "id_surah": 114,
+      "id_ayat": 5,
+      "arti_text": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+    },
+    {
+      "id": 564,
+      "id_surah": 114,
+      "id_ayat": 6,
+      "arti_text": "dari (golongan) jin dan manusia."
+    }
+  ]
+}
