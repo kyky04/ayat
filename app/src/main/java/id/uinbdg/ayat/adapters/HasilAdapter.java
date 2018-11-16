@@ -14,7 +14,7 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import id.uinbdg.ayat.R;
-import id.uinbdg.ayat.models.ItemMateri;
+import id.uinbdg.ayat.models.DataItemSurat;
 
 
 /**
@@ -23,7 +23,8 @@ import id.uinbdg.ayat.models.ItemMateri;
 
 public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
-    List<ItemMateri> listItem;
+    List<DataItemSurat> listItem;
+
 
 
     private Context ctx;
@@ -54,6 +55,8 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         LinearLayout lay;
         @BindView(R.id.click)
         LinearLayout click;
+        @BindView(R.id.tv_arti_surat)
+        TextView tvArtiSurat;
 
         public OriginalViewHolder(View v) {
             super(v);
@@ -75,9 +78,10 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
     public void onBindViewHolder(final RecyclerView.ViewHolder holder, final int position) {
         if (holder instanceof OriginalViewHolder) {
             OriginalViewHolder view = (OriginalViewHolder) holder;
-            ItemMateri item = listItem.get(position);
-            view.tvAyat.setText(item.getSurah());
-            view.tvSurah.setText("(QS." + item.getId_surah() + ":" + item.getId_ayat() + ")");
+            DataItemSurat item = listItem.get(position);
+            view.tvAyat.setText(item.getIsiSurat());
+            view.tvSurah.setText(item.getNamaSurat());
+            view.tvArtiSurat.setText(item.getArti_ayat());
             view.click.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
@@ -93,13 +97,13 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         return listItem.size();
     }
 
-    public void add(ItemMateri item) {
+    public void add(DataItemSurat item) {
         listItem.add(item);
         notifyItemInserted(listItem.size() + 1);
     }
 
-    public void addAll(List<ItemMateri> listItem) {
-        for (ItemMateri item : listItem) {
+    public void addAll(List<DataItemSurat> listItem) {
+        for (DataItemSurat item : listItem) {
             add(item);
         }
     }
@@ -109,7 +113,7 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         notifyDataSetChanged();
     }
 
-    public void swap(List<ItemMateri> datas) {
+    public void swap(List<DataItemSurat> datas) {
         if (datas == null || datas.size() == 0) listItem.clear();
         if (listItem != null && listItem.size() > 0)
             listItem.clear();
@@ -118,7 +122,7 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
     }
 
-    public ItemMateri getItem(int pos) {
+    public DataItemSurat getItem(int pos) {
         return listItem.get(pos);
     }
 
@@ -128,13 +132,13 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         return time;
     }
 
-    public void setFilter(List<ItemMateri> list) {
+    public void setFilter(List<DataItemSurat> list) {
         listItem = new ArrayList<>();
         listItem.addAll(list);
         notifyDataSetChanged();
     }
 
-    public List<ItemMateri> getListItem() {
+    public List<DataItemSurat> getListItem() {
         return listItem;
     }
 }

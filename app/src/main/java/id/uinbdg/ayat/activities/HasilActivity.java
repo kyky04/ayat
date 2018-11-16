@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
@@ -16,6 +18,7 @@ import java.util.Locale;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+import id.uinbdg.ayat.MainActivity;
 import id.uinbdg.ayat.R;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
@@ -26,6 +29,10 @@ public class HasilActivity extends AppCompatActivity {
     LinearLayout layClick;
 
     String hasil;
+    @BindView(R.id.tv_tentang)
+    ImageView tvTentang;
+    @BindView(R.id.tv_help)
+    ImageView tvHelp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,5 +97,17 @@ public class HasilActivity extends AppCompatActivity {
     @OnClick(R.id.lay_click)
     public void onViewClicked() {
         promptSpeechInput();
+    }
+
+    @OnClick({R.id.tv_tentang, R.id.tv_help})
+    public void onViewClicked(View view) {
+        switch (view.getId()) {
+            case R.id.tv_tentang:
+                startActivity(new Intent(HasilActivity.this, TentangActivity.class));
+
+                break;
+            case R.id.tv_help:
+                break;
+        }
     }
 }

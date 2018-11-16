@@ -28,7 +28,8 @@ import butterknife.Unbinder;
 import id.uinbdg.ayat.R;
 import id.uinbdg.ayat.adapters.HasilAdapter;
 import id.uinbdg.ayat.algoritma.JaroWinkler;
-import id.uinbdg.ayat.models.ItemMateri;
+import id.uinbdg.ayat.models.DataItemSurat;
+import id.uinbdg.ayat.models.MateriItem;
 import id.uinbdg.ayat.utils.CommonUtil;
 
 public class HasilPencarianFragment extends DialogFragment {
@@ -44,8 +45,8 @@ public class HasilPencarianFragment extends DialogFragment {
     Unbinder unbinder;
 
     String hasil;
-    List<ItemMateri> itemMateriList = new ArrayList<>();
-    List<ItemMateri> temp = new ArrayList<>();
+    List<DataItemSurat> dataItemSuratList = new ArrayList<>();
+    List<DataItemSurat> temp = new ArrayList<>();
     @BindView(R.id.tv_hasil)
     TextView tvHasil;
 
@@ -72,12 +73,22 @@ public class HasilPencarianFragment extends DialogFragment {
         recyclerView.setAdapter(adapter);
 
 
-        itemMateriList = loadData();
-        for (int i = 0; i < itemMateriList.size(); i++) {
+        dataItemSuratList = loadData();
+        for (int i = 0; i < dataItemSuratList.size(); i++) {
             JaroWinkler jaroWinkler = new JaroWinkler();
-            Log.d(TAG, "onCreateView: " + hasil + " " + jaroWinkler.distance(hasil, itemMateriList.get(i).getSurah()));
-            if (jaroWinkler.distance(hasil, itemMateriList.get(i).getSurah()) < 0.3) {
-                temp.add(itemMateriList.get(i));
+            Log.d(TAG, "onCreateView: " + hasil + " " + jaroWinkler.distance(hasil, dataItemSuratList.get(i).getIsiSurat()));
+            if (jaroWinkler.distance(hasil, dataItemSuratList.get(i).getIsiSurat()) < 0.3) {
+                temp.add(dataItemSuratList.get(i));
+            }
+        }
+
+        List<MateriItem> materiItems = loadArti();
+        for (int i = 0; i < materiItems.size(); i++) {
+            for (int j = 0; j < temp.size(); j++) {
+                Log.d(TAG, "onCreateView ARTI: " + temp.get(j).getNomorAyat() + " " + materiItems.get(i).getIdSurah() + " " + temp.get(j).getNomorSurat() +" "+ materiItems.get(i).getIdAyat());
+                if (materiItems.get(i).getIdSurah() == temp.get(j).getNomorSurat() && materiItems.get(i).getIdAyat() == temp.get(j).getNomorAyat()) {
+                    temp.get(j).setArti_ayat(materiItems.get(i).getArtiText());
+                }
             }
         }
         if (temp.size() > 0) {
@@ -102,11 +113,48 @@ public class HasilPencarianFragment extends DialogFragment {
     }
 
 
-    public ArrayList<ItemMateri> loadData() {
-        ArrayList<ItemMateri> list = new ArrayList<>();
+    public ArrayList<DataItemSurat> loadData() {
+        ArrayList<DataItemSurat> list = new ArrayList<>();
         String json = null;
         try {
-            InputStream is = getActivity().getAssets().open("materi_arab.json");
+            InputStream is = getActivity().getAssets().open("materi.json");
+            int size = is.available();
+            byte[] buffer = new byte[size];
+            is.read(buffer);
+            is.close();
+            json = new String(buffer, "UTF-8");
+        } catch (IOException ex) {
+            ex.printStackTrace();
+            return null;
+        }
+        try {
+            JSONObject obj = new JSONObject(json);
+            JSONArray m_jArry = obj.getJSONArray("data");
+
+            for (int i = 0; i < m_jArry.length(); i++) {
+                JSONObject jo_inside = m_jArry.getJSONObject(i);
+                DataItemSurat materi = new DataItemSurat();
+                materi.setNomorSurat(jo_inside.getInt("nomor_surat"));
+                materi.setNamaSurat(jo_inside.getString("nama_surat"));
+                materi.setIsiSurat(jo_inside.getString("isi_surat"));
+                materi.setArtiSurat(jo_inside.getString("arti_surat"));
+                materi.setNomorAyat(jo_inside.getInt("nomor_ayat"));
+
+                //Add your values in your `ArrayList` as below:
+                list.add(materi);
+//                notesBox.put(doa);
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return list;
+    }
+
+    public ArrayList<MateriItem> loadArti() {
+        ArrayList<MateriItem> list = new ArrayList<>();
+        String json = null;
+        try {
+            InputStream is = getActivity().getAssets().open("materi_indo.json");
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);
@@ -122,11 +170,10 @@ public class HasilPencarianFragment extends DialogFragment {
 
             for (int i = 0; i < m_jArry.length(); i++) {
                 JSONObject jo_inside = m_jArry.getJSONObject(i);
-                ItemMateri materi = new ItemMateri();
-                materi.setId(jo_inside.getInt("id"));
-                materi.setId_surah(jo_inside.getInt("id_surah"));
-                materi.setId_ayat(jo_inside.getInt("id_ayat"));
-                materi.setSurah(jo_inside.getString("ayat_text"));
+                MateriItem materi = new MateriItem();
+                materi.setIdAyat(jo_inside.getInt("id_ayat"));
+                materi.setIdSurah(jo_inside.getInt("id_surah"));
+                materi.setArtiText(jo_inside.getString("arti_text"));
 
                 //Add your values in your `ArrayList` as below:
                 list.add(materi);

@@ -1,0 +1,3952 @@
+{
+  "data": [
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 1,
+      "isi_surat": "عَمَّ يَتَسَاءَلُونَ"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 2,
+      "isi_surat": "عَنِ النَّبَإِ الْعَظِيمِ"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 3,
+      "isi_surat": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 4,
+      "isi_surat": "كَلَّا سَيَعْلَمُونَ"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 5,
+      "isi_surat": "ثُمَّ كَلَّا سَيَعْلَمُونَ"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 6,
+      "isi_surat": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 7,
+      "isi_surat": "وَالْجِبَالَ أَوْتَادًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 8,
+      "isi_surat": "وَخَلَقْنَاكُمْ أَزْوَاجًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 9,
+      "isi_surat": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 10,
+      "isi_surat": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 11,
+      "isi_surat": "وَجَعَلْنَا النَّهَارَ مَعَاشًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 12,
+      "isi_surat": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 13,
+      "isi_surat": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 14,
+      "isi_surat": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 15,
+      "isi_surat": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 16,
+      "isi_surat": "وَجَنَّاتٍ أَلْفَافًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 17,
+      "isi_surat": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 18,
+      "isi_surat": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 19,
+      "isi_surat": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 20,
+      "isi_surat": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 21,
+      "isi_surat": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 22,
+      "isi_surat": "لِلطَّاغِينَ مَآبًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 23,
+      "isi_surat": "لَابِثِينَ فِيهَا أَحْقَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 24,
+      "isi_surat": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 25,
+      "isi_surat": "إِلَّا حَمِيمًا وَغَسَّاقًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 26,
+      "isi_surat": "جَزَاءً وِفَاقًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 27,
+      "isi_surat": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 28,
+      "isi_surat": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 29,
+      "isi_surat": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 30,
+      "isi_surat": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 31,
+      "isi_surat": "إِنَّ لِلْمُتَّقِينَ مَفَازًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 32,
+      "isi_surat": "حَدَائِقَ وَأَعْنَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 33,
+      "isi_surat": "وَكَوَاعِبَ أَتْرَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 34,
+      "isi_surat": "وَكَأْسًا دِهَاقًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 35,
+      "isi_surat": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 36,
+      "isi_surat": "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 37,
+      "isi_surat": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 38,
+      "isi_surat": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 39,
+      "isi_surat": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا"
+    },
+    {
+      "nama_surat": "Surah An-Naba’",
+      "arti_surat": "Berita Besar",
+      "nomor_surat": 78,
+      "nomor_ayat": 40,
+      "isi_surat": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالنَّازِعَاتِ غَرْقًا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 2,
+      "isi_surat": "وَالنَّاشِطَاتِ نَشْطًا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 3,
+      "isi_surat": "وَالسَّابِحَاتِ سَبْحًا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 4,
+      "isi_surat": "فَالسَّابِقَاتِ سَبْقًا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 5,
+      "isi_surat": "فَالْمُدَبِّرَاتِ أَمْرًا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 6,
+      "isi_surat": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 7,
+      "isi_surat": "تَتْبَعُهَا الرَّادِفَةُ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 8,
+      "isi_surat": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 9,
+      "isi_surat": "أَبْصَارُهَا خَاشِعَةٌ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 10,
+      "isi_surat": "يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 11,
+      "isi_surat": "أَإِذَا كُنَّا عِظَامًا نَخِرَةً"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 12,
+      "isi_surat": "قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 13,
+      "isi_surat": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 14,
+      "isi_surat": "فَإِذَا هُمْ بِالسَّاهِرَةِ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 15,
+      "isi_surat": "هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 16,
+      "isi_surat": "إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 17,
+      "isi_surat": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 18,
+      "isi_surat": "فَقُلْ هَلْ لَكَ إِلَىٰ أَنْ تَزَكَّىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 19,
+      "isi_surat": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 20,
+      "isi_surat": "فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 21,
+      "isi_surat": "فَكَذَّبَ وَعَصَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 22,
+      "isi_surat": "ثُمَّ أَدْبَرَ يَسْعَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 23,
+      "isi_surat": "فَحَشَرَ فَنَادَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 24,
+      "isi_surat": "فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 25,
+      "isi_surat": "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 26,
+      "isi_surat": "إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِمَنْ يَخْشَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 27,
+      "isi_surat": "أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 28,
+      "isi_surat": "رَفَعَ سَمْكَهَا فَسَوَّاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 29,
+      "isi_surat": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 30,
+      "isi_surat": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 31,
+      "isi_surat": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 32,
+      "isi_surat": "وَالْجِبَالَ أَرْسَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 33,
+      "isi_surat": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 34,
+      "isi_surat": "فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 35,
+      "isi_surat": "يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 36,
+      "isi_surat": "وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 37,
+      "isi_surat": "فَأَمَّا مَنْ طَغَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 38,
+      "isi_surat": "وَآثَرَ الْحَيَاةَ الدُّنْيَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 39,
+      "isi_surat": "فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 40,
+      "isi_surat": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 41,
+      "isi_surat": "فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 42,
+      "isi_surat": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 43,
+      "isi_surat": "فِيمَ أَنْتَ مِنْ ذِكْرَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 44,
+      "isi_surat": "إِلَىٰ رَبِّكَ مُنْتَهَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 45,
+      "isi_surat": "إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا"
+    },
+    {
+      "nama_surat": "Surah An-Naazi’aat",
+      "arti_surat": "Para Malaikat Yang Mencabut",
+      "nomor_surat": 79,
+      "nomor_ayat": 46,
+      "isi_surat": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 1,
+      "isi_surat": " عَبَسَ وَتَوَلَّىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 2,
+      "isi_surat": "أَنْ جَاءَهُ الْأَعْمَىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 3,
+      "isi_surat": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 4,
+      "isi_surat": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 5,
+      "isi_surat": "أَمَّا مَنِ اسْتَغْنَىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 6,
+      "isi_surat": "فَأَنْتَ لَهُ تَصَدَّىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 7,
+      "isi_surat": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 8,
+      "isi_surat": "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 9,
+      "isi_surat": "وَهُوَ يَخْشَىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 10,
+      "isi_surat": "فَأَنْتَ عَنْهُ تَلَهَّىٰ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 11,
+      "isi_surat": "كَلَّا إِنَّهَا تَذْكِرَةٌ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 12,
+      "isi_surat": "فَمَنْ شَاءَ ذَكَرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 13,
+      "isi_surat": "فِي صُحُفٍ مُكَرَّمَةٍ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 14,
+      "isi_surat": "مَرْفُوعَةٍ مُطَهَّرَةٍ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 15,
+      "isi_surat": "بِأَيْدِي سَفَرَةٍ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 16,
+      "isi_surat": "كِرَامٍ بَرَرَةٍ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 17,
+      "isi_surat": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 18,
+      "isi_surat": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 19,
+      "isi_surat": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 20,
+      "isi_surat": "ثُمَّ السَّبِيلَ يَسَّرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 21,
+      "isi_surat": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 22,
+      "isi_surat": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 23,
+      "isi_surat": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 24,
+      "isi_surat": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 25,
+      "isi_surat": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 26,
+      "isi_surat": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 27,
+      "isi_surat": "فَأَنْبَتْنَا فِيهَا حَبًّا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 28,
+      "isi_surat": "وَعِنَبًا وَقَضْبًا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 29,
+      "isi_surat": "وَزَيْتُونًا وَنَخْلًا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 30,
+      "isi_surat": "وَحَدَائِقَ غُلْبًا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 31,
+      "isi_surat": "وَفَاكِهَةً وَأَبًّا"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 32,
+      "isi_surat": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 33,
+      "isi_surat": "فَإِذَا جَاءَتِ الصَّاخَّةُ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 34,
+      "isi_surat": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 35,
+      "isi_surat": "وَأُمِّهِ وَأَبِيهِ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 36,
+      "isi_surat": "وَصَاحِبَتِهِ وَبَنِيهِ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 37,
+      "isi_surat": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 38,
+      "isi_surat": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 39,
+      "isi_surat": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 40,
+      "isi_surat": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 41,
+      "isi_surat": "تَرْهَقُهَا قَتَرَةٌ"
+    },
+    {
+      "nama_surat": "Surah ‘Abasa",
+      "arti_surat": "Ia Bermuka Masam",
+      "nomor_surat": 80,
+      "nomor_ayat": 42,
+      "isi_surat": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 1,
+      "isi_surat": " إِذَا الشَّمْسُ كُوِّرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 2,
+      "isi_surat": "وَإِذَا النُّجُومُ انْكَدَرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 3,
+      "isi_surat": "وَإِذَا الْجِبَالُ سُيِّرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 4,
+      "isi_surat": "وَإِذَا الْعِشَارُ عُطِّلَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 5,
+      "isi_surat": "وَإِذَا الْوُحُوشُ حُشِرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 6,
+      "isi_surat": "وَإِذَا الْبِحَارُ سُجِّرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 7,
+      "isi_surat": "وَإِذَا النُّفُوسُ زُوِّجَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 8,
+      "isi_surat": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 9,
+      "isi_surat": "بِأَيِّ ذَنْبٍ قُتِلَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 10,
+      "isi_surat": "وَإِذَا الصُّحُفُ نُشِرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 11,
+      "isi_surat": "وَإِذَا السَّمَاءُ كُشِطَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 12,
+      "isi_surat": "وَإِذَا الْجَحِيمُ سُعِّرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 13,
+      "isi_surat": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 14,
+      "isi_surat": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 15,
+      "isi_surat": "فَلَا أُقْسِمُ بِالْخُنَّسِ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 16,
+      "isi_surat": "الْجَوَارِ الْكُنَّسِ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 17,
+      "isi_surat": "وَاللَّيْلِ إِذَا عَسْعَسَ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 18,
+      "isi_surat": "وَالصُّبْحِ إِذَا تَنَفَّسَ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 19,
+      "isi_surat": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 20,
+      "isi_surat": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 21,
+      "isi_surat": "مُطَاعٍ ثَمَّ أَمِينٍ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 22,
+      "isi_surat": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 23,
+      "isi_surat": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 24,
+      "isi_surat": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 25,
+      "isi_surat": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 26,
+      "isi_surat": "فَأَيْنَ تَذْهَبُونَ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 27,
+      "isi_surat": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 28,
+      "isi_surat": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ"
+    },
+    {
+      "nama_surat": "Surah At-Takwir",
+      "arti_surat": "Menggulung",
+      "nomor_surat": 81,
+      "nomor_ayat": 29,
+      "isi_surat": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 1,
+      "isi_surat": " إِذَا السَّمَاءُ انْفَطَرَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 2,
+      "isi_surat": "وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 3,
+      "isi_surat": "وَإِذَا الْبِحَارُ فُجِّرَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 4,
+      "isi_surat": "وَإِذَا الْقُبُورُ بُعْثِرَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 5,
+      "isi_surat": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 6,
+      "isi_surat": "يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 7,
+      "isi_surat": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 8,
+      "isi_surat": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 9,
+      "isi_surat": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 10,
+      "isi_surat": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 11,
+      "isi_surat": "كِرَامًا كَاتِبِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 12,
+      "isi_surat": "يَعْلَمُونَ مَا تَفْعَلُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 13,
+      "isi_surat": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 14,
+      "isi_surat": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 15,
+      "isi_surat": "يَصْلَوْنَهَا يَوْمَ الدِّينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 16,
+      "isi_surat": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 17,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 18,
+      "isi_surat": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Infithar",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 82,
+      "nomor_ayat": 19,
+      "isi_surat": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 1,
+      "isi_surat": " وَيْلٌ لِلْمُطَفِّفِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 2,
+      "isi_surat": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 3,
+      "isi_surat": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 4,
+      "isi_surat": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 5,
+      "isi_surat": "لِيَوْمٍ عَظِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 6,
+      "isi_surat": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 7,
+      "isi_surat": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 8,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا سِجِّينٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 9,
+      "isi_surat": "كِتَابٌ مَرْقُومٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 10,
+      "isi_surat": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 11,
+      "isi_surat": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 12,
+      "isi_surat": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 13,
+      "isi_surat": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 14,
+      "isi_surat": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 15,
+      "isi_surat": "كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 16,
+      "isi_surat": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 17,
+      "isi_surat": "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 18,
+      "isi_surat": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 19,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 20,
+      "isi_surat": "كِتَابٌ مَرْقُومٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 21,
+      "isi_surat": "يَشْهَدُهُ الْمُقَرَّبُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 22,
+      "isi_surat": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 23,
+      "isi_surat": "عَلَى الْأَرَائِكِ يَنْظُرُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 24,
+      "isi_surat": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 25,
+      "isi_surat": "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 26,
+      "isi_surat": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 27,
+      "isi_surat": "وَمِزَاجُهُ مِنْ تَسْنِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 28,
+      "isi_surat": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 29,
+      "isi_surat": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 30,
+      "isi_surat": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 31,
+      "isi_surat": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 32,
+      "isi_surat": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 33,
+      "isi_surat": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 34,
+      "isi_surat": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 35,
+      "isi_surat": "عَلَى الْأَرَائِكِ يَنْظُرُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Muthaffiffin",
+      "arti_surat": "Orang-orang Yang Curang",
+      "nomor_surat": 83,
+      "nomor_ayat": 36,
+      "isi_surat": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 1,
+      "isi_surat": " إِذَا السَّمَاءُ انْشَقَّتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 2,
+      "isi_surat": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 3,
+      "isi_surat": "وَإِذَا الْأَرْضُ مُدَّتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 4,
+      "isi_surat": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 5,
+      "isi_surat": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 6,
+      "isi_surat": "يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 7,
+      "isi_surat": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 8,
+      "isi_surat": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 9,
+      "isi_surat": "وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 10,
+      "isi_surat": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 11,
+      "isi_surat": "فَسَوْفَ يَدْعُو ثُبُورًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 12,
+      "isi_surat": "وَيَصْلَىٰ سَعِيرًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 13,
+      "isi_surat": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 14,
+      "isi_surat": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 15,
+      "isi_surat": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 16,
+      "isi_surat": "فَلَا أُقْسِمُ بِالشَّفَقِ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 17,
+      "isi_surat": "وَاللَّيْلِ وَمَا وَسَقَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 18,
+      "isi_surat": "وَالْقَمَرِ إِذَا اتَّسَقَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 19,
+      "isi_surat": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 20,
+      "isi_surat": "فَمَا لَهُمْ لَا يُؤْمِنُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 21,
+      "isi_surat": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 22,
+      "isi_surat": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 23,
+      "isi_surat": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 24,
+      "isi_surat": "فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyiqaaq",
+      "arti_surat": "Terbelah",
+      "nomor_surat": 84,
+      "nomor_ayat": 25,
+      "isi_surat": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالسَّمَاءِ ذَاتِ الْبُرُوجِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 2,
+      "isi_surat": "وَالْيَوْمِ الْمَوْعُودِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 3,
+      "isi_surat": "وَشَاهِدٍ وَمَشْهُودٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 4,
+      "isi_surat": "قُتِلَ أَصْحَابُ الْأُخْدُودِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 5,
+      "isi_surat": "النَّارِ ذَاتِ الْوَقُودِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 6,
+      "isi_surat": "إِذْ هُمْ عَلَيْهَا قُعُودٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 7,
+      "isi_surat": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 8,
+      "isi_surat": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 9,
+      "isi_surat": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 10,
+      "isi_surat": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 11,
+      "isi_surat": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 12,
+      "isi_surat": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 13,
+      "isi_surat": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 14,
+      "isi_surat": "وَهُوَ الْغَفُورُ الْوَدُودُ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 15,
+      "isi_surat": "ذُو الْعَرْشِ الْمَجِيدُ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 16,
+      "isi_surat": "فَعَّالٌ لِمَا يُرِيدُ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 17,
+      "isi_surat": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 18,
+      "isi_surat": "فِرْعَوْنَ وَثَمُودَ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 19,
+      "isi_surat": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 20,
+      "isi_surat": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 21,
+      "isi_surat": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Buruuj",
+      "arti_surat": "Gugusan Bintang",
+      "nomor_surat": 85,
+      "nomor_ayat": 22,
+      "isi_surat": "فِي لَوْحٍ مَحْفُوظٍ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالسَّمَاءِ وَالطَّارِقِ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 2,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا الطَّارِقُ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 3,
+      "isi_surat": "النَّجْمُ الثَّاقِبُ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 4,
+      "isi_surat": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 5,
+      "isi_surat": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 6,
+      "isi_surat": "خُلِقَ مِنْ مَاءٍ دَافِقٍ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 7,
+      "isi_surat": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 8,
+      "isi_surat": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 9,
+      "isi_surat": "يَوْمَ تُبْلَى السَّرَائِرُ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 10,
+      "isi_surat": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 11,
+      "isi_surat": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 12,
+      "isi_surat": "وَالْأَرْضِ ذَاتِ الصَّدْعِ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 13,
+      "isi_surat": "إِنَّهُ لَقَوْلٌ فَصْلٌ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 14,
+      "isi_surat": "وَمَا هُوَ بِالْهَزْلِ"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 15,
+      "isi_surat": "إِنَّهُمْ يَكِيدُونَ كَيْدًا"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 16,
+      "isi_surat": "وَأَكِيدُ كَيْدًا"
+    },
+    {
+      "nama_surat": "Surah At-Thaariq",
+      "arti_surat": "Yang Datang Di Malam Hari",
+      "nomor_surat": 86,
+      "nomor_ayat": 17,
+      "isi_surat": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 1,
+      "isi_surat": " سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 2,
+      "isi_surat": "الَّذِي خَلَقَ فَسَوَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 3,
+      "isi_surat": "وَالَّذِي قَدَّرَ فَهَدَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 4,
+      "isi_surat": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 5,
+      "isi_surat": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 6,
+      "isi_surat": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 7,
+      "isi_surat": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 8,
+      "isi_surat": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 9,
+      "isi_surat": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 10,
+      "isi_surat": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 11,
+      "isi_surat": "وَيَتَجَنَّبُهَا الْأَشْقَى"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 12,
+      "isi_surat": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 13,
+      "isi_surat": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 14,
+      "isi_surat": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 15,
+      "isi_surat": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 16,
+      "isi_surat": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 17,
+      "isi_surat": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 18,
+      "isi_surat": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-A’la",
+      "arti_surat": "Yang Paling Tinggi",
+      "nomor_surat": 87,
+      "nomor_ayat": 19,
+      "isi_surat": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 1,
+      "isi_surat": " هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 2,
+      "isi_surat": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 3,
+      "isi_surat": "عَامِلَةٌ نَاصِبَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 4,
+      "isi_surat": "تَصْلَىٰ نَارًا حَامِيَةً"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 5,
+      "isi_surat": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 6,
+      "isi_surat": "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 7,
+      "isi_surat": "لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 8,
+      "isi_surat": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 9,
+      "isi_surat": "لِسَعْيِهَا رَاضِيَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 10,
+      "isi_surat": "فِي جَنَّةٍ عَالِيَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 11,
+      "isi_surat": "لَا تَسْمَعُ فِيهَا لَاغِيَةً"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 12,
+      "isi_surat": "فِيهَا عَيْنٌ جَارِيَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 13,
+      "isi_surat": "فِيهَا سُرُرٌ مَرْفُوعَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 14,
+      "isi_surat": "وَأَكْوَابٌ مَوْضُوعَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 15,
+      "isi_surat": "وَنَمَارِقُ مَصْفُوفَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 16,
+      "isi_surat": "وَزَرَابِيُّ مَبْثُوثَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 17,
+      "isi_surat": "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 18,
+      "isi_surat": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 19,
+      "isi_surat": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 20,
+      "isi_surat": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 21,
+      "isi_surat": "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 22,
+      "isi_surat": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 23,
+      "isi_surat": "إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 24,
+      "isi_surat": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 25,
+      "isi_surat": "إِنَّ إِلَيْنَا إِيَابَهُمْ"
+    },
+    {
+      "nama_surat": "Surah Al-Gasyiyah",
+      "arti_surat": "Hari Pembalasan",
+      "nomor_surat": 88,
+      "nomor_ayat": 26,
+      "isi_surat": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالْفَجْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 2,
+      "isi_surat": "وَلَيَالٍ عَشْرٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 3,
+      "isi_surat": "وَالشَّفْعِ وَالْوَتْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 4,
+      "isi_surat": "وَاللَّيْلِ إِذَا يَسْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 5,
+      "isi_surat": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 6,
+      "isi_surat": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 7,
+      "isi_surat": "إِرَمَ ذَاتِ الْعِمَادِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 8,
+      "isi_surat": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 9,
+      "isi_surat": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 10,
+      "isi_surat": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 11,
+      "isi_surat": "الَّذِينَ طَغَوْا فِي الْبِلَادِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 12,
+      "isi_surat": "فَأَكْثَرُوا فِيهَا الْفَسَادَ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 13,
+      "isi_surat": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 14,
+      "isi_surat": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 15,
+      "isi_surat": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 16,
+      "isi_surat": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 17,
+      "isi_surat": "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 18,
+      "isi_surat": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 19,
+      "isi_surat": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 20,
+      "isi_surat": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 21,
+      "isi_surat": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 22,
+      "isi_surat": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 23,
+      "isi_surat": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 24,
+      "isi_surat": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 25,
+      "isi_surat": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 26,
+      "isi_surat": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 27,
+      "isi_surat": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 28,
+      "isi_surat": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 29,
+      "isi_surat": "فَادْخُلِي فِي عِبَادِي"
+    },
+    {
+      "nama_surat": "Surah Al-Fajr",
+      "arti_surat": "Fajar",
+      "nomor_surat": 89,
+      "nomor_ayat": 30,
+      "isi_surat": "وَادْخُلِي جَنَّتِي"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 1,
+      "isi_surat": " لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 2,
+      "isi_surat": "وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 3,
+      "isi_surat": "وَوَالِدٍ وَمَا وَلَدَ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 4,
+      "isi_surat": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 5,
+      "isi_surat": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 6,
+      "isi_surat": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 7,
+      "isi_surat": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 8,
+      "isi_surat": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 9,
+      "isi_surat": "وَلِسَانًا وَشَفَتَيْنِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 10,
+      "isi_surat": "وَهَدَيْنَاهُ النَّجْدَيْنِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 11,
+      "isi_surat": "فَلَا اقْتَحَمَ الْعَقَبَةَ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 12,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 13,
+      "isi_surat": "فَكُّ رَقَبَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 14,
+      "isi_surat": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 15,
+      "isi_surat": "يَتِيمًا ذَا مَقْرَبَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 16,
+      "isi_surat": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 17,
+      "isi_surat": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 18,
+      "isi_surat": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 19,
+      "isi_surat": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Balad",
+      "arti_surat": "Negeri",
+      "nomor_surat": 90,
+      "nomor_ayat": 20,
+      "isi_surat": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالشَّمْسِ وَضُحَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 2,
+      "isi_surat": "وَالْقَمَرِ إِذَا تَلَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 3,
+      "isi_surat": "وَالنَّهَارِ إِذَا جَلَّاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 4,
+      "isi_surat": "وَاللَّيْلِ إِذَا يَغْشَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 5,
+      "isi_surat": "وَالسَّمَاءِ وَمَا بَنَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 6,
+      "isi_surat": "وَالْأَرْضِ وَمَا طَحَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 7,
+      "isi_surat": "وَنَفْسٍ وَمَا سَوَّاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 8,
+      "isi_surat": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 9,
+      "isi_surat": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 10,
+      "isi_surat": "وَقَدْ خَابَ مَنْ دَسَّاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 11,
+      "isi_surat": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 12,
+      "isi_surat": "إِذِ انْبَعَثَ أَشْقَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 13,
+      "isi_surat": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 14,
+      "isi_surat": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا"
+    },
+    {
+      "nama_surat": "Surah Asy-Syams",
+      "arti_surat": "Matahari",
+      "nomor_surat": 91,
+      "nomor_ayat": 15,
+      "isi_surat": "وَلَا يَخَافُ عُقْبَاهَا"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 1,
+      "isi_surat": " وَاللَّيْلِ إِذَا يَغْشَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 2,
+      "isi_surat": "وَالنَّهَارِ إِذَا تَجَلَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 3,
+      "isi_surat": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 4,
+      "isi_surat": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 5,
+      "isi_surat": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 6,
+      "isi_surat": "وَصَدَّقَ بِالْحُسْنَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 7,
+      "isi_surat": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 8,
+      "isi_surat": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 9,
+      "isi_surat": "وَكَذَّبَ بِالْحُسْنَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 10,
+      "isi_surat": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 11,
+      "isi_surat": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 12,
+      "isi_surat": "إِنَّ عَلَيْنَا لَلْهُدَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 13,
+      "isi_surat": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 14,
+      "isi_surat": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 15,
+      "isi_surat": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 16,
+      "isi_surat": "الَّذِي كَذَّبَ وَتَوَلَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 17,
+      "isi_surat": "وَسَيُجَنَّبُهَا الْأَتْقَى"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 18,
+      "isi_surat": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 19,
+      "isi_surat": "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 20,
+      "isi_surat": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-Lail",
+      "arti_surat": "Malam",
+      "nomor_surat": 92,
+      "nomor_ayat": 21,
+      "isi_surat": "وَلَسَوْفَ يَرْضَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالضُّحَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 2,
+      "isi_surat": "وَاللَّيْلِ إِذَا سَجَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 3,
+      "isi_surat": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 4,
+      "isi_surat": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 5,
+      "isi_surat": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 6,
+      "isi_surat": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 7,
+      "isi_surat": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 8,
+      "isi_surat": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 9,
+      "isi_surat": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 10,
+      "isi_surat": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ"
+    },
+    {
+      "nama_surat": "Surah Ad-Duha",
+      "arti_surat": "Waktu Matahari Sepenggalan Naik",
+      "nomor_surat": 93,
+      "nomor_ayat": 11,
+      "isi_surat": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 1,
+      "isi_surat": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 2,
+      "isi_surat": "وَوَضَعْنَا عَنْكَ وِزْرَكَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 3,
+      "isi_surat": "الَّذِي أَنْقَضَ ظَهْرَكَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 4,
+      "isi_surat": "وَرَفَعْنَا لَكَ ذِكْرَكَ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 5,
+      "isi_surat": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 6,
+      "isi_surat": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 7,
+      "isi_surat": "فَإِذَا فَرَغْتَ فَانْصَبْ"
+    },
+    {
+      "nama_surat": "Surah Al-Insyirah",
+      "arti_surat": "Melapangkan",
+      "nomor_surat": 94,
+      "nomor_ayat": 8,
+      "isi_surat": "وَإِلَىٰ رَبِّكَ فَارْغَبْ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالتِّينِ وَالزَّيْتُونِ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 2,
+      "isi_surat": "وَطُورِ سِينِينَ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 3,
+      "isi_surat": "وَهَٰذَا الْبَلَدِ الْأَمِينِ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 4,
+      "isi_surat": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 5,
+      "isi_surat": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 6,
+      "isi_surat": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 7,
+      "isi_surat": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ"
+    },
+    {
+      "nama_surat": "Surah At-Tin",
+      "arti_surat": "Buah Tin",
+      "nomor_surat": 95,
+      "nomor_ayat": 8,
+      "isi_surat": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 1,
+      "isi_surat": " اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 2,
+      "isi_surat": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 3,
+      "isi_surat": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 4,
+      "isi_surat": "الَّذِي عَلَّمَ بِالْقَلَمِ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 5,
+      "isi_surat": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 6,
+      "isi_surat": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 7,
+      "isi_surat": "أَنْ رَآهُ اسْتَغْنَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 8,
+      "isi_surat": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 9,
+      "isi_surat": "أَرَأَيْتَ الَّذِي يَنْهَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 10,
+      "isi_surat": "عَبْدًا إِذَا صَلَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 11,
+      "isi_surat": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 12,
+      "isi_surat": "أَوْ أَمَرَ بِالتَّقْوَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 13,
+      "isi_surat": "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 14,
+      "isi_surat": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 15,
+      "isi_surat": "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 16,
+      "isi_surat": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 17,
+      "isi_surat": "فَلْيَدْعُ نَادِيَهُ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 18,
+      "isi_surat": "سَنَدْعُ الزَّبَانِيَةَ"
+    },
+    {
+      "nama_surat": "Surah Al-'Alaq",
+      "arti_surat": "Segumpal Darah",
+      "nomor_surat": 96,
+      "nomor_ayat": 19,
+      "isi_surat": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩"
+    },
+    {
+      "nama_surat": "Surah Al-Qadr",
+      "arti_surat": "Kemuliaan",
+      "nomor_surat": 97,
+      "nomor_ayat": 1,
+      "isi_surat": " إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Qadr",
+      "arti_surat": "Kemuliaan",
+      "nomor_surat": 97,
+      "nomor_ayat": 2,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Qadr",
+      "arti_surat": "Kemuliaan",
+      "nomor_surat": 97,
+      "nomor_ayat": 3,
+      "isi_surat": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Qadr",
+      "arti_surat": "Kemuliaan",
+      "nomor_surat": 97,
+      "nomor_ayat": 4,
+      "isi_surat": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Qadr",
+      "arti_surat": "Kemuliaan",
+      "nomor_surat": 97,
+      "nomor_ayat": 5,
+      "isi_surat": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 1,
+      "isi_surat": " لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 2,
+      "isi_surat": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 3,
+      "isi_surat": "فِيهَا كُتُبٌ قَيِّمَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 4,
+      "isi_surat": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "isi_surat": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "nomor_ayat": 5
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 6,
+      "isi_surat": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 7,
+      "isi_surat": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Bayyinah",
+      "arti_surat": "Bukti",
+      "nomor_surat": 98,
+      "nomor_ayat": 8,
+      "isi_surat": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 1,
+      "isi_surat": " إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 2,
+      "isi_surat": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 3,
+      "isi_surat": "وَقَالَ الْإِنْسَانُ مَا لَهَا"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 4,
+      "isi_surat": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 5,
+      "isi_surat": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 6,
+      "isi_surat": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 7,
+      "isi_surat": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ"
+    },
+    {
+      "nama_surat": "Surah Az-Zalzalah",
+      "arti_surat": "Kegoncangan",
+      "nomor_surat": 99,
+      "nomor_ayat": 8,
+      "isi_surat": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالْعَادِيَاتِ ضَبْحًا"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 2,
+      "isi_surat": "فَالْمُورِيَاتِ قَدْحًا"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 3,
+      "isi_surat": "فَالْمُغِيرَاتِ صُبْحًا"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 4,
+      "isi_surat": "فَأَثَرْنَ بِهِ نَقْعًا"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 5,
+      "isi_surat": "فَوَسَطْنَ بِهِ جَمْعًا"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 6,
+      "isi_surat": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 7,
+      "isi_surat": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 8,
+      "isi_surat": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 9,
+      "isi_surat": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 10,
+      "isi_surat": "وَحُصِّلَ مَا فِي الصُّدُورِ"
+    },
+    {
+      "nama_surat": "Surah Al-'Adiyat",
+      "arti_surat": "Kuda Perang Yang Berlari Kencang",
+      "nomor_surat": 100,
+      "nomor_ayat": 11,
+      "isi_surat": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 1,
+      "isi_surat": " الْقَارِعَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 2,
+      "isi_surat": "مَا الْقَارِعَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 3,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 4,
+      "isi_surat": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 5,
+      "isi_surat": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 6,
+      "isi_surat": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 7,
+      "isi_surat": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 8,
+      "isi_surat": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 9,
+      "isi_surat": "فَأُمُّهُ هَاوِيَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 10,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا هِيَهْ"
+    },
+    {
+      "nama_surat": "Surah Al-Qari'ah",
+      "arti_surat": "Hari Kiamat",
+      "nomor_surat": 101,
+      "nomor_ayat": 11,
+      "isi_surat": "نَارٌ حَامِيَةٌ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 1,
+      "isi_surat": " أَلْهَاكُمُ التَّكَاثُرُ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 2,
+      "isi_surat": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 3,
+      "isi_surat": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 4,
+      "isi_surat": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 5,
+      "isi_surat": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 6,
+      "isi_surat": "لَتَرَوُنَّ الْجَحِيمَ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 7,
+      "isi_surat": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ"
+    },
+    {
+      "nama_surat": "Surah At-Takasur",
+      "arti_surat": "Bermegah-megahan",
+      "nomor_surat": 102,
+      "nomor_ayat": 8,
+      "isi_surat": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ"
+    },
+    {
+      "nama_surat": "Surah Al-'Asr",
+      "arti_surat": "Masa",
+      "nomor_surat": 103,
+      "nomor_ayat": 1,
+      "isi_surat": " وَالْعَصْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-'Asr",
+      "arti_surat": "Masa",
+      "nomor_surat": 103,
+      "nomor_ayat": 2,
+      "isi_surat": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ"
+    },
+    {
+      "nama_surat": "Surah Al-'Asr",
+      "arti_surat": "Masa",
+      "nomor_surat": 103,
+      "nomor_ayat": 3,
+      "isi_surat": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 1,
+      "isi_surat": " وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 2,
+      "isi_surat": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 3,
+      "isi_surat": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 4,
+      "isi_surat": "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 5,
+      "isi_surat": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 6,
+      "isi_surat": "نَارُ اللَّهِ الْمُوقَدَةُ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 7,
+      "isi_surat": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 8,
+      "isi_surat": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Humazah",
+      "arti_surat": "Pengumpat",
+      "nomor_surat": 104,
+      "nomor_ayat": 9,
+      "isi_surat": "فِي عَمَدٍ مُمَدَّدَةٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fil",
+      "arti_surat": "Gajah",
+      "nomor_surat": 105,
+      "nomor_ayat": 1,
+      "isi_surat": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ"
+    },
+    {
+      "nama_surat": "Surah Al-Fil",
+      "arti_surat": "Gajah",
+      "nomor_surat": 105,
+      "nomor_ayat": 2,
+      "isi_surat": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fil",
+      "arti_surat": "Gajah",
+      "nomor_surat": 105,
+      "nomor_ayat": 3,
+      "isi_surat": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ"
+    },
+    {
+      "nama_surat": "Surah Al-Fil",
+      "arti_surat": "Gajah",
+      "nomor_surat": 105,
+      "nomor_ayat": 4,
+      "isi_surat": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Fil",
+      "arti_surat": "Gajah",
+      "nomor_surat": 105,
+      "nomor_ayat": 5,
+      "isi_surat": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ"
+    },
+    {
+      "nama_surat": "Surah Quraisy",
+      "arti_surat": "Suku Quraisy",
+      "nomor_surat": 106,
+      "nomor_ayat": 1,
+      "isi_surat": " لِإِيلَافِ قُرَيْشٍ"
+    },
+    {
+      "nama_surat": "Surah Quraisy",
+      "arti_surat": "Suku Quraisy",
+      "nomor_surat": 106,
+      "nomor_ayat": 2,
+      "isi_surat": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ"
+    },
+    {
+      "nama_surat": "Surah Quraisy",
+      "arti_surat": "Suku Quraisy",
+      "nomor_surat": 106,
+      "nomor_ayat": 3,
+      "isi_surat": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ"
+    },
+    {
+      "nama_surat": "Surah Quraisy",
+      "arti_surat": "Suku Quraisy",
+      "nomor_surat": 106,
+      "nomor_ayat": 4,
+      "isi_surat": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 1,
+      "isi_surat": " أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 2,
+      "isi_surat": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 3,
+      "isi_surat": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 4,
+      "isi_surat": "فَوَيْلٌ لِلْمُصَلِّينَ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 5,
+      "isi_surat": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 6,
+      "isi_surat": "الَّذِينَ هُمْ يُرَاءُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Ma’un",
+      "arti_surat": "Barang-barang Yang Berguna",
+      "nomor_surat": 107,
+      "nomor_ayat": 7,
+      "isi_surat": "وَيَمْنَعُونَ الْمَاعُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Kausar",
+      "arti_surat": "Nikmat Yang Banyak",
+      "nomor_surat": 108,
+      "nomor_ayat": 1,
+      "isi_surat": " إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ"
+    },
+    {
+      "nama_surat": "Surah Al-Kausar",
+      "arti_surat": "Nikmat Yang Banyak",
+      "nomor_surat": 108,
+      "nomor_ayat": 2,
+      "isi_surat": "فَصَلِّ لِرَبِّكَ وَانْحَرْ"
+    },
+    {
+      "nama_surat": "Surah Al-Kausar",
+      "arti_surat": "Nikmat Yang Banyak",
+      "nomor_surat": 108,
+      "nomor_ayat": 3,
+      "isi_surat": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ"
+    },
+    {
+      "nama_surat": "Surah Al-Kafirun",
+      "arti_surat": "Orang-orang Kafir",
+      "nomor_surat": 109,
+      "nomor_ayat": 1,
+      "isi_surat": " قُلْ يَا أَيُّهَا الْكَافِرُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Kafirun",
+      "arti_surat": "Orang-orang Kafir",
+      "nomor_surat": 109,
+      "nomor_ayat": 2,
+      "isi_surat": "لَا أَعْبُدُ مَا تَعْبُدُونَ"
+    },
+    {
+      "nama_surat": "Surah Al-Kafirun",
+      "arti_surat": "Orang-orang Kafir",
+      "nomor_surat": 109,
+      "nomor_ayat": 3,
+      "isi_surat": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ"
+    },
+    {
+      "nama_surat": "Surah Al-Kafirun",
+      "arti_surat": "Orang-orang Kafir",
+      "nomor_surat": 109,
+      "nomor_ayat": 4,
+      "isi_surat": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ"
+    },
+    {
+      "nama_surat": "Surah Al-Kafirun",
+      "arti_surat": "Orang-orang Kafir",
+      "nomor_surat": 109,
+      "nomor_ayat": 5,
+      "isi_surat": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ"
+    },
+    {
+      "nama_surat": "Surah Al-Kafirun",
+      "arti_surat": "Orang-orang Kafir",
+      "nomor_surat": 109,
+      "nomor_ayat": 6,
+      "isi_surat": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ"
+    },
+    {
+      "nama_surat": "Surah An-Nasr",
+      "arti_surat": "Pertolongan",
+      "nomor_surat": 110,
+      "nomor_ayat": 1,
+      "isi_surat": " إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ"
+    },
+    {
+      "nama_surat": "Surah An-Nasr",
+      "arti_surat": "Pertolongan",
+      "nomor_surat": 110,
+      "nomor_ayat": 2,
+      "isi_surat": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا"
+    },
+    {
+      "nama_surat": "Surah An-Nasr",
+      "arti_surat": "Pertolongan",
+      "nomor_surat": 110,
+      "nomor_ayat": 3,
+      "isi_surat": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا"
+    },
+    {
+      "nama_surat": "Surah Al-Lahab",
+      "arti_surat": "Gejolak Api",
+      "nomor_surat": 111,
+      "nomor_ayat": 1,
+      "isi_surat": " تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ"
+    },
+    {
+      "nama_surat": "Surah Al-Lahab",
+      "arti_surat": "Gejolak Api",
+      "nomor_surat": 111,
+      "nomor_ayat": 2,
+      "isi_surat": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ"
+    },
+    {
+      "nama_surat": "Surah Al-Lahab",
+      "arti_surat": "Gejolak Api",
+      "nomor_surat": 111,
+      "nomor_ayat": 3,
+      "isi_surat": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Lahab",
+      "arti_surat": "Gejolak Api",
+      "nomor_surat": 111,
+      "nomor_ayat": 4,
+      "isi_surat": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ"
+    },
+    {
+      "nama_surat": "Surah Al-Lahab",
+      "arti_surat": "Gejolak Api",
+      "nomor_surat": 111,
+      "nomor_ayat": 5,
+      "isi_surat": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ"
+    },
+    {
+      "nama_surat": "Surah Al-Ikhlas",
+      "arti_surat": "Memurnikan Keesaan Allah",
+      "nomor_surat": 112,
+      "nomor_ayat": 1,
+      "isi_surat": " قُلْ هُوَ اللَّهُ أَحَدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Ikhlas",
+      "arti_surat": "Memurnikan Keesaan Allah",
+      "nomor_surat": 112,
+      "nomor_ayat": 2,
+      "isi_surat": "اللَّهُ الصَّمَدُ"
+    },
+    {
+      "nama_surat": "Surah Al-Ikhlas",
+      "arti_surat": "Memurnikan Keesaan Allah",
+      "nomor_surat": 112,
+      "nomor_ayat": 3,
+      "isi_surat": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
+    },
+    {
+      "nama_surat": "Surah Al-Ikhlas",
+      "arti_surat": "Memurnikan Keesaan Allah",
+      "nomor_surat": 112,
+      "nomor_ayat": 4,
+      "isi_surat": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ"
+    },
+    {
+      "nama_surat": "Surah Al-Falaq",
+      "arti_surat": "Waktu Subuh",
+      "nomor_surat": 113,
+      "nomor_ayat": 1,
+      "isi_surat": " قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ"
+    },
+    {
+      "nama_surat": "Surah Al-Falaq",
+      "arti_surat": "Waktu Subuh",
+      "nomor_surat": 113,
+      "nomor_ayat": 2,
+      "isi_surat": "مِنْ شَرِّ مَا خَلَقَ"
+    },
+    {
+      "nama_surat": "Surah Al-Falaq",
+      "arti_surat": "Waktu Subuh",
+      "nomor_surat": 113,
+      "nomor_ayat": 3,
+      "isi_surat": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+      "nama_surat": "Surah Al-Falaq",
+      "arti_surat": "Waktu Subuh",
+      "nomor_surat": 113,
+      "nomor_ayat": 4,
+      "isi_surat": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ"
+    },
+    {
+      "nama_surat": "Surah Al-Falaq",
+      "arti_surat": "Waktu Subuh",
+      "nomor_surat": 113,
+      "nomor_ayat": 5,
+      "isi_surat": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+    },
+    {
+      "nama_surat": "Surah An-Nas",
+      "arti_surat": "Umat Manusia",
+      "nomor_surat": 114,
+      "nomor_ayat": 1,
+      "isi_surat": " قُلْ أَعُوذُ بِرَبِّ النَّاسِ"
+    },
+    {
+      "nama_surat": "Surah An-Nas",
+      "arti_surat": "Umat Manusia",
+      "nomor_surat": 114,
+      "nomor_ayat": 2,
+      "isi_surat": "مَلِكِ النَّاسِ"
+    },
+    {
+      "nama_surat": "Surah An-Nas",
+      "arti_surat": "Umat Manusia",
+      "nomor_surat": 114,
+      "nomor_ayat": 3,
+      "isi_surat": "إِلَٰهِ النَّاسِ"
+    },
+    {
+      "nama_surat": "Surah An-Nas",
+      "arti_surat": "Umat Manusia",
+      "nomor_surat": 114,
+      "nomor_ayat": 4,
+      "isi_surat": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ"
+    },
+    {
+      "nama_surat": "Surah An-Nas",
+      "arti_surat": "Umat Manusia",
+      "nomor_surat": 114,
+      "nomor_ayat": 5,
+      "isi_surat": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ"
+    },
+    {
+      "nama_surat": "Surah An-Nas",
+      "arti_surat": "Umat Manusia",
+      "nomor_surat": 114,
+      "nomor_ayat": 6,
+      "isi_surat": "مِنَ الْجِنَّةِ وَالنَّاسِ"
+    }
+  ]
+}

@@ -24,6 +24,16 @@
                 android:layout_margin="@dimen/spacing_medium"
                 android:orientation="vertical">
 
+                <TextView
+                    android:id="@+id/tv_surah"
+                    fontPath="fonts/ubuntu_regular.ttf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/spacing_small"
+                    android:text="(QS. Al A’raf: 54)"
+                    android:textColor="@color/red_500"
+                    android:textSize="16dp" />
+
 
                 <TextView
                     android:id="@+id/tv_ayat"
@@ -36,14 +46,12 @@
                     android:textSize="16dp" />
 
                 <TextView
-                    android:id="@+id/tv_surah"
+                    android:id="@+id/tv_arti_surat"
                     fontPath="fonts/ubuntu_regular.ttf"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="@dimen/spacing_small"
-                    android:text="(QS. Al A’raf: 54)"
-                    android:textSize="16dp" />
-
+                    android:text="(QS. Al A’raf: 54)" />
 
 
             </LinearLayout>

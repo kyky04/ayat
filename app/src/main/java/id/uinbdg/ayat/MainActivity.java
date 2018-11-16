@@ -13,6 +13,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 import id.uinbdg.ayat.activities.HasilPencarianFragment;
+import id.uinbdg.ayat.activities.TentangActivity;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
 public class MainActivity extends AppCompatActivity {
@@ -77,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btn_skor:
                 break;
             case R.id.btn_about:
+
                 break;
         }
     }
