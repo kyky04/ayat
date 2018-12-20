@@ -1,10 +1,13 @@
 package id.uinbdg.ayat.adapters;
 
 import android.content.Context;
+import android.content.res.AssetFileDescriptor;
+import android.media.MediaPlayer;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -24,7 +27,7 @@ import id.uinbdg.ayat.models.DataItemSurat;
 public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     List<DataItemSurat> listItem;
-
+    MediaPlayer mp = null;
 
 
     private Context ctx;
@@ -57,6 +60,8 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
         LinearLayout click;
         @BindView(R.id.tv_arti_surat)
         TextView tvArtiSurat;
+        @BindView(R.id.btn_play)
+        ImageButton btnPlay;
 
         public OriginalViewHolder(View v) {
             super(v);
@@ -80,12 +85,19 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
             OriginalViewHolder view = (OriginalViewHolder) holder;
             DataItemSurat item = listItem.get(position);
             view.tvAyat.setText(item.getIsiSurat());
-            view.tvSurah.setText(item.getNamaSurat());
+            view.tvSurah.setText("(QS. " + item.getNamaSurat() + " : " + item.getNomorAyat() + ")");
             view.tvArtiSurat.setText(item.getArti_ayat());
             view.click.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     mOnItemClickListener.onItemClick(position);
+                }
+            });
+
+            view.btnPlay.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+
                 }
             });
 
@@ -140,5 +152,19 @@ public class HasilAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
     public List<DataItemSurat> getListItem() {
         return listItem;
+    }
+
+    private void playSound(String fileName) {
+        mp = new MediaPlayer();
+        try {
+            AssetFileDescriptor afd = ctx.getAssets().openFd(fileName);
+            mp.setDataSource(afd.getFileDescriptor(), afd.getStartOffset(), afd.getLength());
+            afd.close();
+            mp.prepare();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        mp.start();
+
     }
 }

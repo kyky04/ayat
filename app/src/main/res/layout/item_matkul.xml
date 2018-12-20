@@ -26,7 +26,6 @@
 
                 <TextView
                     android:id="@+id/tv_surah"
-                    fontPath="fonts/ubuntu_regular.ttf"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="@dimen/spacing_small"
@@ -37,7 +36,6 @@
 
                 <TextView
                     android:id="@+id/tv_ayat"
-                    fontPath="fonts/ubuntu_regular.ttf"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="@dimen/spacing_small"
@@ -47,13 +45,17 @@
 
                 <TextView
                     android:id="@+id/tv_arti_surat"
-                    fontPath="fonts/ubuntu_regular.ttf"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="@dimen/spacing_small"
                     android:text="(QS. Al A’raf: 54)" />
 
-
+                <ImageButton
+                    android:id="@+id/btn_play"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_play"
+                    android:layout_gravity="right"/>
             </LinearLayout>
         </LinearLayout>
 

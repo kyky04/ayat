@@ -22,41 +22,20 @@
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/foto"
+            android:src="@drawable/bg"
             app:civ_border_color="@color/red_500"
             app:civ_border_width="2dp" />
 
         <TextView
-            fontPath="fonts/ubuntu_regular.ttf"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/spacing_large"
             android:gravity="center"
-            android:text="Risal alfiyassin \n1137050189"
+            android:text="YAYASAN KESEJAHTERAAN\nUMAT BANYUWANGI"
             android:textColor="@color/white"
             android:textSize="20dp"
             android:textStyle="bold" />
 
-        <TextView
-            fontPath="fonts/ubuntu_regular.ttf"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:gravity="center"
-            android:text="Pembimbing 1 Wisnu Uriawan, ST., M.Kom"
-            android:textColor="@color/white"
-            android:textStyle="italic" />
-
-        <TextView
-            fontPath="fonts/ubuntu_regular.ttf"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_marginBottom="@dimen/spacing_large"
-            android:gravity="center"
-            android:text="Pembimbing 2 Dr. Yana Aditia Gerhana, ST., M.Kom "
-            android:textColor="@color/white"
-            android:textStyle="italic" />
 
     </LinearLayout>
 

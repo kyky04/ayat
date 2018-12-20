@@ -139,6 +139,7 @@ public class HasilPencarianFragment extends DialogFragment {
                 materi.setIsiSurat(jo_inside.getString("isi_surat"));
                 materi.setArtiSurat(jo_inside.getString("arti_surat"));
                 materi.setNomorAyat(jo_inside.getInt("nomor_ayat"));
+                materi.setFile(jo_inside.getString("file"));
 
                 //Add your values in your `ArrayList` as below:
                 list.add(materi);

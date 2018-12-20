@@ -22,6 +22,17 @@ public class DataItemSurat {
 	@SerializedName("arti_ayat")
 	private String arti_ayat;
 
+	@SerializedName("file")
+	private String file;
+
+	public String getFile() {
+		return file;
+	}
+
+	public void setFile(String file) {
+		this.file = file;
+	}
+
 	public String getArti_ayat() {
 		return arti_ayat;
 	}
